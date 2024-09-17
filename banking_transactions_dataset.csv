@@ -1,0 +1,1001 @@
+Account ID,Transaction ID,Transaction Type,Amount,Date,Account Type,Branch,Customer ID,CustomerName
+84854,126151,Deposit,4807.42,2024-03-23,Checking,Houston,5576,Julia Rodriguez
+63897,556617,Deposit,2985.19,2024-07-27,Savings,Chicago,8137,Aaron Hawkins
+16406,115606,Deposit,2693.19,2023-06-20,Checking,New York,3033,Rebekah Powell
+21660,798808,Deposit,1847.64,2023-01-26,Business,Miami,3708,Brian Clark
+16440,138755,Withdrawal,1216.94,2024-02-22,Savings,Los Angeles,8603,Sarah Martin
+79689,212030,Withdrawal,2618.78,2022-12-21,Business,Miami,7299,Joseph Lynn
+66513,129075,Withdrawal,1227.53,2023-03-17,Savings,New York,3263,Ashley White
+29122,496640,Deposit,642.91,2024-04-18,Business,Los Angeles,3780,Gregory Anderson
+57066,225766,Withdrawal,4614.71,2024-02-08,Savings,Houston,3721,Danielle Good
+33963,669709,Withdrawal,4246.13,2023-08-26,Checking,Los Angeles,5833,Mariah Torres
+71869,363404,Deposit,3717.42,2024-08-20,Business,Los Angeles,9516,Eric Santiago
+63343,814166,Deposit,1581.13,2023-08-20,Savings,New York,3256,Ralph Powell
+94353,387400,Deposit,4986.17,2023-12-12,Savings,Los Angeles,7994,Edward Dean
+84482,924132,Withdrawal,543.67,2022-10-25,Checking,Houston,6681,Edward Smith
+10899,298387,Deposit,1619.87,2023-08-14,Business,Los Angeles,8644,James Jones
+12627,508680,Withdrawal,4812.76,2023-10-20,Checking,New York,6590,Jonathan Holloway
+51505,644876,Withdrawal,1183.23,2023-10-29,Savings,Chicago,9706,Andrew Adams
+43691,812728,Deposit,4125.13,2023-01-19,Business,Houston,8971,Kayla Mack
+32967,557395,Deposit,2987.28,2024-06-06,Checking,New York,7600,Robert Wilkinson
+61383,446444,Withdrawal,72.45,2024-05-30,Checking,Chicago,5319,Jordan Lewis
+62107,738101,Deposit,1783.24,2023-07-11,Business,Houston,7367,Steven Jones
+68665,460095,Withdrawal,1355.86,2024-05-12,Checking,Los Angeles,6617,Charles Stewart
+76938,854595,Deposit,4481.88,2023-08-08,Business,New York,6961,Jessica Dominguez
+38735,735170,Withdrawal,2859.04,2023-05-11,Business,Los Angeles,4565,William Gonzalez
+84714,689359,Deposit,1426.97,2024-08-18,Business,Miami,1413,Gregory Newton
+11213,506283,Deposit,1602.92,2023-07-27,Checking,Los Angeles,8682,Lauren Mcconnell
+76901,149223,Withdrawal,2592.07,2023-06-01,Checking,Chicago,8710,Mark Allen
+91560,447838,Deposit,12.29,2023-12-15,Business,Miami,7780,Robert Duran
+75952,108170,Withdrawal,4106.5,2023-02-19,Checking,New York,4065,Christopher Howard
+94304,320181,Deposit,2024.84,2024-04-20,Business,Houston,2424,Jacob Williams
+16635,495689,Deposit,616.43,2023-08-31,Business,New York,8316,Victor Boyd
+55631,608938,Withdrawal,3988.44,2023-09-21,Checking,Miami,4478,Mary Clark
+17877,532114,Withdrawal,1042.37,2024-06-08,Checking,Houston,7195,Courtney Lee
+86231,366911,Deposit,4693.34,2023-10-20,Checking,Houston,4307,Meghan Warren
+90024,828305,Deposit,3137.31,2023-12-16,Savings,Chicago,7492,Mary Murray
+93819,744995,Deposit,1148.32,2024-04-03,Savings,Miami,3603,Jeffery Mason
+89827,878416,Withdrawal,4201.19,2024-07-30,Checking,Miami,2631,Darryl Collins
+36433,486351,Deposit,2233.17,2022-12-13,Savings,Chicago,1695,Rebecca Moore
+44052,383131,Withdrawal,4678.52,2024-05-09,Business,Chicago,8579,Chloe Blair
+33210,809029,Deposit,4018.94,2023-09-29,Business,Miami,7260,Matthew Jordan
+69450,930383,Deposit,2501.37,2024-06-01,Business,Los Angeles,2753,Jeffery Meyers III
+17486,182011,Withdrawal,2615.21,2023-03-19,Savings,Miami,1685,Laura Price
+43895,451156,Withdrawal,611.75,2024-08-11,Business,Houston,4923,Jeremy Oconnor
+70122,969592,Withdrawal,987.39,2024-07-12,Checking,Chicago,6052,Patricia Chang
+49113,722063,Withdrawal,3876.17,2024-08-15,Checking,Los Angeles,5997,Lauren Cook
+67232,224552,Withdrawal,4622.17,2024-09-12,Savings,Chicago,7729,Jesse Carson
+30195,449724,Deposit,4485.68,2024-05-29,Savings,New York,4919,Martha Lowe
+75964,528163,Withdrawal,266.99,2023-03-16,Checking,New York,4940,Mr. Dylan Santos
+73944,587376,Withdrawal,2660.37,2023-03-01,Savings,New York,9391,Olivia Adams
+78141,267918,Withdrawal,3444.22,2024-07-04,Business,Houston,3708,Michael Swanson
+87537,131259,Deposit,2267.5,2024-03-07,Savings,New York,2323,Jeremy Navarro
+89877,830331,Deposit,2158.6,2024-06-03,Checking,Miami,6647,Eric Parker
+35219,470992,Deposit,4266.01,2022-11-06,Checking,New York,3657,Tammy Davis
+96777,656909,Deposit,1381.09,2023-12-13,Savings,Miami,6738,Natalie Beck
+23425,726297,Deposit,1804.39,2023-04-06,Checking,Chicago,5745,Danielle Bentley
+40179,548262,Deposit,2565.47,2023-11-21,Savings,Los Angeles,9544,Teresa Lowe
+66177,252361,Deposit,211.63,2024-02-27,Savings,Los Angeles,2935,Brandon Schroeder
+14176,634106,Withdrawal,1615.57,2023-02-09,Savings,Chicago,8070,Justin Richard
+80479,166096,Withdrawal,4333.99,2024-07-01,Checking,Miami,9293,Haley Goodwin
+60009,451550,Withdrawal,3544.79,2023-09-04,Savings,Chicago,4018,Robert Gonzalez
+41260,915224,Withdrawal,3480.68,2024-05-03,Business,Chicago,7557,Michele Harris
+41937,241972,Deposit,3736.61,2024-01-01,Checking,Los Angeles,1717,Jackson Hawkins
+27922,622330,Withdrawal,2616.88,2023-03-03,Business,New York,6865,Elizabeth Calderon
+74474,407951,Deposit,3531.52,2022-12-05,Checking,New York,9934,Justin Baker
+18810,135430,Deposit,967.89,2024-03-31,Business,Los Angeles,7929,Natalie Jones
+82126,982552,Withdrawal,1355.85,2023-03-16,Business,Houston,8342,Melanie Wang
+85040,718756,Deposit,3022.3,2024-07-01,Checking,New York,6315,Aaron Green
+57082,531961,Withdrawal,4916.61,2023-04-26,Checking,Los Angeles,1253,Andrew Taylor
+27852,909775,Deposit,3552.73,2024-04-28,Savings,Los Angeles,6359,Elizabeth Jones
+45615,227653,Deposit,1830.83,2022-12-20,Savings,Los Angeles,2434,Jeremy Lopez
+46139,192510,Deposit,4860.74,2022-10-04,Business,New York,1751,Wendy Burton
+70145,592243,Deposit,396.91,2023-09-07,Savings,Los Angeles,5550,Dr. Benjamin Johnson
+52523,167197,Withdrawal,4695.75,2023-11-05,Checking,New York,3097,Charles Gates
+33368,988097,Deposit,4931.76,2023-07-08,Checking,Miami,3427,Jessica Fisher
+93408,232620,Deposit,1787.29,2024-03-08,Checking,Houston,9890,Rachel Taylor
+67325,219676,Deposit,2692.82,2023-02-17,Checking,Miami,6527,Deborah Hughes MD
+50274,698056,Withdrawal,2090.95,2024-03-19,Checking,Miami,9259,Tina Perry MD
+23112,545514,Deposit,4260.68,2023-09-12,Savings,Los Angeles,7203,Jonathan Turner
+97748,948014,Withdrawal,4416.38,2024-05-20,Savings,New York,4537,Kyle Gomez
+49437,826150,Withdrawal,1939.75,2023-02-06,Business,Chicago,1754,George Williams
+67069,407601,Withdrawal,1420.4,2023-05-02,Savings,Los Angeles,5964,Robert Lewis
+32456,369711,Deposit,4502.47,2022-11-24,Checking,Los Angeles,5221,Kristin Cruz
+39404,891448,Withdrawal,318.76,2023-07-19,Savings,Miami,2551,Heather Pruitt
+67686,603857,Deposit,4914.38,2023-11-20,Savings,Los Angeles,9187,Joseph Hale
+60211,184900,Deposit,282.85,2023-12-14,Checking,New York,9029,Miguel Schwartz
+27632,407641,Withdrawal,4512.82,2023-12-31,Business,New York,9454,Rhonda Carter
+67252,636441,Deposit,2273.96,2023-01-12,Savings,Miami,5503,Joseph Phillips
+71498,366015,Deposit,3825.7,2023-12-07,Business,Chicago,4060,Richard Ford
+57969,738067,Deposit,1025.95,2023-08-24,Savings,Los Angeles,9642,Rebecca Morris
+96688,420719,Deposit,1923.75,2023-04-18,Checking,Houston,8458,Jose Miller
+59528,420589,Deposit,13.6,2022-12-10,Checking,Houston,3641,Kathryn Simmons
+38222,370803,Withdrawal,4539.3,2023-08-07,Savings,Miami,2374,Suzanne Wiley
+60939,614300,Deposit,629.24,2023-11-13,Checking,New York,8168,Jessica Sanchez
+50353,279564,Deposit,4302.74,2023-12-03,Savings,Chicago,2281,Stacy Cantu
+32574,706115,Deposit,4588.43,2023-07-08,Checking,Chicago,8463,Danielle Long
+21525,723576,Deposit,3190.9,2022-10-18,Savings,Los Angeles,4288,Christian Williams
+11023,977020,Withdrawal,91.89,2023-02-01,Business,Miami,1751,Elizabeth Hughes
+32132,488438,Deposit,1490.71,2024-08-25,Savings,Houston,4063,Erin Reeves
+17078,928172,Deposit,3046.59,2023-08-07,Business,Los Angeles,6147,Jason Davis
+20348,291507,Deposit,467.34,2022-12-20,Savings,Houston,7373,George Wagner
+41630,571609,Withdrawal,1633.6,2023-10-23,Savings,New York,3947,Brenda Zimmerman
+23125,250204,Deposit,441.19,2023-06-21,Savings,Miami,8094,Christopher Carlson
+13799,112212,Withdrawal,3513.1,2023-03-03,Checking,Miami,6911,Brenda Paul
+34466,838231,Deposit,4295.4,2024-04-30,Checking,Miami,9913,Sarah Bailey
+36612,806796,Withdrawal,4831.97,2024-03-18,Savings,Houston,3715,Joshua Miller
+67542,544006,Deposit,4786.13,2023-04-19,Checking,Miami,5268,Virginia Hall
+33202,616553,Withdrawal,1637.84,2024-06-27,Savings,Los Angeles,6562,Nicole Garcia
+99873,300010,Withdrawal,928.09,2024-07-29,Checking,Los Angeles,9821,Brandon Parker
+24268,682184,Withdrawal,4255.49,2022-11-01,Savings,Miami,1822,Aaron Boyd
+94846,178393,Deposit,1619.99,2024-01-11,Savings,Chicago,9987,Sheila Thomas
+37832,547249,Withdrawal,2636.99,2024-02-03,Savings,Houston,3309,Brandon Hancock
+71001,619851,Deposit,3592.09,2023-01-04,Checking,Miami,1805,Thomas Jordan
+94984,674103,Deposit,35.11,2023-12-27,Checking,Houston,4831,Cody Rodriguez
+66723,272216,Deposit,205.3,2023-12-16,Checking,Miami,1872,Dr. Steven Smith
+64190,718549,Deposit,2559.66,2024-06-16,Savings,Houston,7550,Kayla Jackson
+98270,763007,Deposit,3033.97,2024-07-26,Checking,Miami,1828,Christopher Wallace
+49057,431614,Deposit,97.46,2022-09-17,Checking,Houston,9909,Mark Cole
+48449,868398,Deposit,75.19,2023-08-06,Business,Miami,7048,Brandon Estes
+19879,741781,Withdrawal,3564.27,2023-07-19,Savings,Chicago,3085,Kimberly Jones
+58132,271149,Deposit,1661.74,2024-02-14,Checking,Miami,6127,Cody Daniels
+17444,704509,Withdrawal,1737.57,2022-11-13,Savings,Chicago,4929,Lynn Marquez
+79212,187543,Withdrawal,4808.55,2023-02-28,Checking,Chicago,3091,Curtis Velez
+40501,100459,Withdrawal,317.85,2023-11-25,Checking,New York,6252,Matthew Snyder
+46467,205140,Withdrawal,3490.97,2022-10-03,Checking,Miami,6124,Brandi Salazar
+72809,737892,Deposit,3492.37,2023-06-02,Business,Miami,1158,Monica Oliver
+88528,502548,Deposit,4083.38,2023-01-10,Savings,Chicago,7021,Amy Brown
+88391,376341,Deposit,3906.23,2024-01-08,Business,Miami,7369,Carlos Baxter
+36061,529700,Withdrawal,1737.66,2024-09-12,Business,Houston,4700,Lynn Rodriguez
+38424,613685,Deposit,4118.96,2023-03-22,Savings,New York,8751,Phillip Hammond
+74150,433645,Withdrawal,4333.29,2024-04-08,Savings,New York,4068,Elizabeth Jones
+82956,293371,Deposit,1911.51,2022-10-05,Business,Los Angeles,8139,Mary Mcdaniel
+19918,958918,Deposit,786.23,2023-03-04,Business,Houston,1293,Mark Fitzgerald
+81463,616546,Deposit,306.88,2023-01-22,Checking,Chicago,4888,Justin Lee
+52215,748297,Withdrawal,3938.37,2023-01-17,Business,Miami,2706,Mary Watson
+38436,741339,Withdrawal,3169.95,2024-07-29,Business,Miami,8205,Stephen Garcia
+87152,476002,Deposit,2595.02,2024-03-02,Checking,New York,2236,Patricia Davenport
+98077,621302,Withdrawal,2455.79,2023-05-21,Savings,New York,5701,Terry Glenn
+73335,153741,Deposit,4547.1,2023-06-19,Business,Houston,1293,Katherine Watts
+43858,857845,Deposit,4351.2,2023-07-08,Business,Houston,2748,Madison Evans
+22833,595272,Deposit,3050.99,2022-11-08,Checking,Los Angeles,5102,Michael Kaiser
+64392,731153,Deposit,2115.64,2024-05-31,Checking,Miami,7728,Michelle Reynolds
+17266,117206,Deposit,695.85,2023-09-21,Savings,Chicago,2459,Diana Lynch
+77995,790446,Withdrawal,4640.2,2023-09-19,Business,Houston,2530,Tara Freeman
+71081,752109,Deposit,3815.38,2024-02-06,Business,Chicago,9626,Lori Chandler
+25441,707881,Withdrawal,207.59,2022-11-30,Business,Miami,5269,Amy Flores
+65381,520430,Withdrawal,3952.83,2024-07-19,Savings,Houston,3865,Dennis Bennett
+32032,817350,Withdrawal,688.68,2022-11-23,Business,Houston,1478,Charles Edwards
+51064,114737,Deposit,2489.0,2023-08-26,Business,Chicago,3235,Stephanie Scott
+27080,670631,Deposit,2375.97,2022-12-27,Savings,Los Angeles,7890,Kelly Sanders
+53120,990339,Withdrawal,3871.32,2024-03-24,Checking,Los Angeles,5231,Louis Lee
+81509,549752,Deposit,610.04,2023-12-20,Checking,Miami,2711,Melinda Mercado
+43323,399956,Deposit,3722.74,2024-06-13,Business,Chicago,9633,Michael Dixon
+38756,325671,Withdrawal,1321.02,2024-06-22,Business,Miami,1968,Emily Rivera
+96569,825210,Deposit,3508.69,2023-08-23,Checking,Chicago,2503,Jonathan Sharp
+39423,211585,Deposit,1294.66,2024-02-07,Business,Los Angeles,4542,Mr. Shawn Klein DVM
+76737,228567,Deposit,3753.74,2024-04-22,Checking,Miami,5609,Penny Mccarthy
+29661,513728,Deposit,359.29,2022-12-18,Savings,Los Angeles,4893,Jonathan Greene
+42772,783385,Deposit,873.9,2024-01-31,Checking,Houston,1023,Alexander Moreno
+69892,397583,Withdrawal,2124.3,2023-09-28,Checking,New York,9640,Mr. Ryan Daugherty
+10796,457216,Withdrawal,486.27,2024-05-17,Business,Chicago,3140,Cindy Myers
+20427,888005,Deposit,2182.93,2023-05-26,Savings,Chicago,1458,Melissa Peters
+56839,917098,Withdrawal,3122.61,2023-04-18,Savings,Miami,8869,Laurie Robertson
+97868,149328,Withdrawal,3046.22,2023-03-31,Savings,Houston,9870,Tony Daniels
+69734,694892,Withdrawal,1889.74,2023-01-13,Savings,Los Angeles,6839,Nicholas Fischer
+37994,770032,Withdrawal,2992.41,2024-05-21,Business,New York,6311,Katherine Wilson
+58227,591388,Withdrawal,1660.02,2024-01-03,Savings,Houston,8184,John Peterson MD
+37509,414891,Withdrawal,452.14,2023-03-31,Business,Miami,6616,Adam Smith
+97177,430101,Withdrawal,113.11,2024-08-15,Checking,Miami,9569,Natalie Bailey
+96656,483471,Deposit,1380.87,2024-04-28,Savings,Miami,7723,Lynn Smith
+88112,901551,Deposit,1184.98,2022-10-04,Savings,Miami,8253,Jennifer Schwartz
+73679,901261,Withdrawal,3685.93,2023-01-26,Checking,Chicago,9482,Katelyn Patrick
+51628,505882,Withdrawal,270.68,2023-06-27,Savings,Los Angeles,6442,Michelle Jackson
+51173,551971,Withdrawal,3522.33,2022-10-22,Business,Houston,8130,Justin Marshall
+41898,223069,Withdrawal,237.95,2024-08-31,Savings,Chicago,2059,Alexandra Colon
+87845,607825,Withdrawal,3979.47,2024-07-17,Business,Chicago,2007,Alexandra Cannon
+79574,367830,Withdrawal,177.2,2022-12-25,Checking,New York,9278,Michael Stone
+36008,263306,Deposit,4780.04,2023-06-02,Checking,Los Angeles,7487,Heather Goodwin
+22103,354136,Withdrawal,1768.3,2022-12-12,Checking,Houston,5876,Charles Arias
+60408,156009,Deposit,2420.62,2024-02-13,Savings,Houston,5685,Daniel Lee
+99863,590110,Withdrawal,3399.04,2024-01-09,Savings,Chicago,4744,Alexis Ball
+94651,590241,Deposit,1646.06,2023-03-21,Savings,Chicago,5359,Shannon Jones
+44368,901133,Withdrawal,4642.21,2024-07-01,Checking,Los Angeles,7829,Sydney Perez
+98990,483961,Deposit,1699.72,2023-12-07,Business,Houston,1995,Kathryn Sherman
+60413,100844,Withdrawal,3880.22,2023-06-04,Savings,Houston,6139,Alvin Price
+47067,511526,Deposit,2548.29,2023-12-31,Savings,New York,6740,Michael Carter
+83341,419994,Deposit,4634.11,2024-04-19,Savings,Houston,4543,John Haas
+24222,676488,Deposit,2602.74,2023-07-28,Business,Houston,1863,Ashley Osborn
+20082,810594,Withdrawal,4086.45,2023-01-19,Savings,Houston,6939,Melissa Chavez
+38429,717593,Deposit,4712.0,2023-03-09,Checking,Houston,6882,Kelly Brown
+52773,587812,Deposit,4327.04,2022-09-18,Savings,Chicago,5457,Tammy Harris
+97257,545343,Withdrawal,2537.9,2024-06-01,Savings,Miami,3684,Jason Evans
+50110,416802,Deposit,2612.81,2024-02-16,Checking,Chicago,5711,Anthony Dominguez
+51864,431367,Withdrawal,894.36,2024-05-24,Business,New York,2484,Michele Jones
+70933,789383,Deposit,2927.75,2024-02-19,Savings,Miami,7112,Mark Cox
+50634,973238,Withdrawal,683.17,2023-03-23,Business,Chicago,8999,Jessica Brown
+68113,274418,Deposit,586.84,2023-03-01,Business,Houston,8384,Danielle Miller
+92686,524467,Deposit,1381.24,2022-09-26,Savings,Houston,4896,Geoffrey Ross
+59479,744892,Withdrawal,1067.36,2023-07-06,Business,Houston,9148,Micheal Butler
+31333,268236,Withdrawal,1281.72,2023-04-13,Savings,Los Angeles,2989,Debra James
+74092,332741,Deposit,4723.24,2022-11-16,Checking,Los Angeles,1393,Barbara Smith
+11613,123095,Deposit,46.05,2022-10-16,Business,Los Angeles,1945,Kathy Parsons
+60128,344053,Deposit,4255.28,2023-09-29,Savings,New York,5259,Erica Freeman
+43798,747711,Withdrawal,3747.49,2024-04-25,Checking,Houston,3530,Daniel Howard
+67827,942065,Withdrawal,2814.71,2023-10-16,Checking,Houston,6969,Jamie Fischer
+21124,372271,Withdrawal,2362.88,2023-06-06,Savings,New York,7549,Ronald Hill
+30621,258576,Withdrawal,1528.56,2023-04-09,Checking,Houston,9199,Luis Blake
+27866,846732,Withdrawal,3469.24,2024-03-30,Savings,Miami,2998,David Stephenson
+39112,365052,Withdrawal,1568.53,2023-07-05,Checking,Miami,1960,Andrea Garcia
+61717,270401,Withdrawal,1367.1,2024-02-06,Business,Miami,8894,Sergio Mann
+57120,139644,Withdrawal,2067.06,2023-04-05,Savings,Chicago,7723,Tiffany Garcia
+62454,726038,Withdrawal,3048.52,2023-10-11,Business,Chicago,8071,James Garcia
+86398,695728,Deposit,535.64,2023-10-02,Business,Miami,4440,Richard Huynh
+85524,802233,Deposit,436.57,2023-04-29,Business,New York,9335,Lisa Wise
+92409,663734,Deposit,2736.45,2023-08-08,Business,Houston,9874,David Taylor
+50984,397211,Deposit,2848.93,2023-03-29,Business,Chicago,5449,Jeffery Wise
+63434,568150,Withdrawal,1347.31,2024-06-02,Savings,Los Angeles,6417,Caleb Horn
+21526,302334,Deposit,4324.39,2024-03-13,Savings,Houston,6505,Veronica Castro
+66192,646409,Withdrawal,2369.31,2023-04-05,Checking,Chicago,8070,Jennifer Gardner
+99273,566167,Deposit,3906.85,2023-07-14,Checking,Miami,3967,Gina Taylor
+39782,168067,Withdrawal,3722.35,2023-08-08,Checking,Miami,5814,Carol Clark
+32401,139843,Withdrawal,422.09,2024-01-06,Business,Chicago,7749,Lindsey Smith
+42406,149745,Withdrawal,4583.06,2023-05-06,Checking,Los Angeles,5178,Sarah Wells
+42269,100484,Deposit,2929.91,2024-06-17,Checking,Los Angeles,6999,Greg Hernandez
+28367,446912,Withdrawal,3699.79,2022-12-17,Savings,Miami,5818,Eric Bailey
+45571,390948,Deposit,517.42,2024-03-13,Savings,Chicago,1303,Louis Lin
+13711,200298,Withdrawal,3101.32,2022-09-22,Business,Chicago,7931,Shannon Nelson
+86424,328094,Withdrawal,754.55,2024-09-12,Savings,Los Angeles,8823,Lynn Wade
+51896,396024,Deposit,2213.7,2022-09-22,Business,Miami,6970,Andrea Thompson
+86499,478620,Deposit,3824.71,2022-10-28,Business,Miami,9706,Luis Brown
+85085,972818,Withdrawal,1266.08,2023-04-23,Checking,Los Angeles,4526,Pamela Sanchez
+63559,387903,Withdrawal,2506.78,2023-01-12,Savings,Chicago,9129,Roy Espinoza
+60401,553042,Withdrawal,4482.0,2023-07-25,Business,Miami,8153,Alicia Hicks
+73310,105725,Withdrawal,4302.25,2023-06-19,Checking,New York,8420,Richard Sloan
+39748,476381,Deposit,4710.84,2024-05-16,Savings,Los Angeles,1232,Brianna Wilson
+48830,200014,Deposit,1051.4,2023-06-16,Business,New York,6317,Cheryl Adams
+32411,710074,Deposit,3346.68,2024-03-15,Business,Chicago,3574,Colleen Frazier
+20919,589893,Withdrawal,1748.85,2023-07-06,Checking,Miami,7971,Maria Martin
+79968,459906,Deposit,58.89,2022-10-03,Business,Houston,3263,William Velasquez
+84150,574812,Deposit,485.43,2023-01-09,Checking,Miami,6669,Gwendolyn Chavez
+78036,473977,Deposit,2255.75,2023-04-17,Checking,New York,4251,Veronica Wilson
+77866,702001,Withdrawal,1486.62,2024-08-10,Savings,Chicago,2811,Mark Hernandez
+96028,408749,Withdrawal,1513.12,2022-12-14,Checking,Los Angeles,4235,Heidi Arnold
+63371,635234,Deposit,3495.09,2024-07-14,Business,Chicago,6959,Hannah Murray
+57851,661985,Deposit,4111.42,2023-02-27,Business,Miami,2306,Emily Gordon
+31855,695709,Deposit,2599.5,2022-10-10,Savings,Los Angeles,8704,Eugene Jenkins
+48325,734868,Withdrawal,2780.74,2023-07-22,Business,New York,5942,Amanda Wells
+47365,290471,Deposit,535.85,2023-12-01,Savings,Miami,2425,James Bailey
+90935,803018,Deposit,3482.63,2024-05-04,Savings,Houston,2833,Christopher Silva
+36650,903325,Deposit,2734.64,2023-01-11,Savings,Los Angeles,6345,Christopher Carter
+44654,391003,Withdrawal,2044.95,2024-01-09,Business,New York,7403,Lisa Brown
+89377,400830,Withdrawal,4884.14,2024-07-24,Savings,Miami,2071,Jessica Pennington
+92213,904392,Withdrawal,1725.69,2024-07-20,Checking,Los Angeles,7077,Deborah Miles
+29468,478118,Deposit,3815.17,2022-10-01,Checking,Los Angeles,8567,Kevin Lozano
+24059,644622,Deposit,1823.1,2024-08-03,Business,New York,2994,Kelly Barnes
+14220,487249,Deposit,3846.51,2023-08-15,Checking,Miami,4921,Heather Long
+37220,962812,Deposit,2116.15,2024-08-16,Business,New York,3311,Aaron Yates
+32148,448799,Deposit,2704.39,2023-03-22,Business,Chicago,9650,Christine Watson
+75712,298317,Deposit,1428.23,2023-10-27,Savings,New York,4624,Charles Rodriguez
+17233,926679,Deposit,1725.71,2024-06-30,Checking,Los Angeles,8601,Kenneth Pineda
+31852,851695,Withdrawal,119.34,2022-12-14,Savings,Miami,1007,Renee Newman
+81025,860619,Deposit,4154.69,2024-08-16,Checking,Miami,4392,Brandon Adams
+96252,988652,Deposit,2734.3,2024-01-18,Savings,New York,1054,Stephanie Simpson
+46067,996519,Withdrawal,138.73,2022-09-19,Business,Chicago,4360,Allison Brown
+38598,220563,Deposit,140.86,2023-06-13,Business,Miami,2188,Mary Edwards
+47520,552321,Withdrawal,3776.24,2023-08-11,Checking,New York,8598,Courtney Martinez
+81015,316011,Deposit,4369.5,2022-10-20,Checking,New York,6692,Michael Estrada
+14658,361108,Deposit,1655.48,2022-09-30,Checking,Miami,8645,Jeff Bradshaw
+50957,614712,Deposit,2874.36,2024-05-15,Checking,Chicago,4293,Andrew Ray
+52962,821799,Withdrawal,1511.87,2023-07-26,Savings,Miami,8448,Kelly Bradley
+26578,939769,Deposit,2758.57,2024-02-02,Checking,Chicago,9959,Philip Reilly
+88293,652421,Withdrawal,1132.69,2023-11-01,Business,Houston,6576,Anthony Graves
+45148,937254,Withdrawal,186.8,2023-11-14,Savings,Los Angeles,9032,Michael Parker Jr.
+76021,877401,Withdrawal,1607.06,2023-12-25,Business,Chicago,1967,Eric Hopkins
+24197,670383,Deposit,4460.98,2024-08-26,Checking,Miami,7953,Michele Lane
+34405,900172,Deposit,1383.69,2023-02-27,Checking,Miami,6843,Jennifer Boyle
+98862,596971,Deposit,2386.87,2022-12-23,Business,New York,2448,Tracy Jensen
+19355,300071,Deposit,3725.88,2024-04-23,Business,New York,9378,Emily Garza
+68885,172753,Deposit,1491.91,2022-12-28,Business,Chicago,6809,Kyle Cook
+73809,990981,Deposit,1632.86,2024-02-02,Checking,Chicago,7081,Angela Johnson
+74599,756266,Deposit,1245.92,2023-07-26,Checking,Los Angeles,6414,Marcus Stone
+38840,425824,Deposit,2372.56,2024-05-06,Business,Los Angeles,6551,Kenneth Boyd
+79830,576387,Deposit,543.35,2023-03-15,Checking,Los Angeles,6987,Sheena Warren
+13116,782059,Deposit,2158.64,2022-11-07,Business,Los Angeles,5066,Edward Tanner
+59832,477393,Withdrawal,88.55,2022-12-12,Savings,Miami,3377,Lisa Glenn
+25353,964194,Deposit,3505.13,2024-04-25,Business,Chicago,4023,Timothy James
+73380,624332,Withdrawal,302.92,2024-01-07,Checking,New York,4918,Lisa Sanchez
+66524,807068,Deposit,4306.24,2023-09-25,Checking,Los Angeles,8658,Michelle Villarreal
+80864,356526,Withdrawal,3789.5,2023-11-11,Business,Houston,8578,Carlos Martin
+46480,870178,Withdrawal,826.73,2023-04-26,Savings,Houston,3854,Christina Ewing
+49317,882037,Deposit,205.07,2023-07-07,Savings,Los Angeles,6193,Charles Oliver
+21009,659933,Withdrawal,218.31,2023-10-15,Business,Houston,8459,William Clayton
+82746,491307,Deposit,4962.15,2023-02-24,Savings,Houston,2367,Jeremiah Lewis
+60367,310004,Deposit,2819.92,2023-07-20,Savings,Miami,8091,Ricardo Morris
+91778,194902,Deposit,2642.79,2022-11-15,Checking,Chicago,6576,Jessica Ford
+57662,583388,Deposit,4297.63,2023-07-28,Checking,New York,7557,Kelly Bowman
+24832,511785,Withdrawal,4562.42,2023-03-08,Business,Chicago,4240,Courtney Lee
+59772,781842,Withdrawal,4424.82,2022-10-19,Savings,Houston,2857,Michael Fitzgerald
+65619,511703,Deposit,639.17,2024-02-15,Savings,Los Angeles,9963,Molly Walters
+46565,121160,Withdrawal,1113.02,2024-06-16,Business,New York,5642,Tyler Lucas
+55951,396397,Deposit,1298.55,2023-09-14,Checking,Houston,4929,Michael Chen
+35508,995717,Withdrawal,2625.7,2022-09-21,Checking,Houston,5562,Crystal Myers
+90054,124559,Deposit,831.29,2024-04-04,Savings,New York,2530,Lisa Baker
+17519,814872,Withdrawal,17.62,2023-02-16,Savings,Chicago,5833,Carol Greene
+55493,937930,Deposit,3671.68,2023-09-17,Checking,Chicago,6283,Daniel Lee
+61208,922169,Withdrawal,82.71,2024-06-23,Business,Miami,7363,Robert Lowery
+48619,512426,Withdrawal,2282.34,2024-08-09,Checking,Houston,1326,Kimberly Campbell
+72652,378237,Withdrawal,459.01,2024-01-10,Checking,Miami,8195,Marc Ramirez
+38266,178421,Deposit,2267.5,2023-01-02,Savings,New York,9103,Whitney Allen
+39188,948352,Deposit,3048.91,2023-05-28,Checking,Houston,1599,Amber Baldwin
+82901,402353,Deposit,3063.77,2024-01-01,Checking,Los Angeles,7984,Zachary Blankenship PhD
+11758,197697,Deposit,1289.63,2023-11-19,Savings,Chicago,5390,Julia Kennedy
+65979,317450,Deposit,4467.45,2023-05-02,Savings,New York,2234,Glenn Miller
+86251,647369,Withdrawal,2416.99,2024-07-02,Business,New York,8537,Jonathan Wallace
+53260,538087,Deposit,1900.65,2022-12-16,Savings,New York,6342,Michael Todd
+97251,804756,Withdrawal,4160.2,2024-08-21,Checking,New York,9189,Joseph Boyd
+50557,669034,Deposit,3554.93,2022-10-08,Savings,Chicago,7043,Wendy Hall
+93290,159365,Deposit,4230.47,2023-03-31,Checking,Miami,9281,Sydney Love
+73496,499157,Deposit,477.74,2023-05-14,Savings,Chicago,1585,Michelle Sanders
+82724,751532,Withdrawal,385.69,2022-10-30,Business,New York,6436,Victoria Harper
+67110,315619,Deposit,3898.23,2023-12-03,Checking,Los Angeles,1257,Joyce White
+85275,777172,Deposit,4166.17,2023-03-18,Checking,Miami,2310,John Doyle
+37347,258049,Withdrawal,4622.92,2023-10-11,Checking,Houston,9340,Shannon Duffy
+41517,237897,Deposit,1870.06,2024-02-07,Savings,Los Angeles,1095,Linda Higgins
+80344,739296,Withdrawal,541.79,2023-07-29,Savings,Miami,8258,Cynthia Delgado
+70032,651623,Withdrawal,4221.04,2023-05-18,Savings,Los Angeles,5431,Benjamin Hensley MD
+92962,909050,Deposit,1046.08,2023-01-23,Checking,Chicago,9185,Rhonda Ruiz DVM
+20139,387359,Withdrawal,4266.08,2024-06-28,Savings,Miami,4399,Tanya Contreras
+45159,112266,Deposit,3708.37,2023-08-29,Business,Los Angeles,2253,Jerry Miller Jr.
+43697,520736,Withdrawal,4494.75,2022-10-04,Business,Houston,3461,Brian Mendoza
+14565,437324,Withdrawal,4424.24,2024-08-21,Savings,Houston,8517,Debra Holland
+65358,654310,Withdrawal,1899.15,2022-10-23,Savings,New York,8805,Becky Owen
+29444,890417,Deposit,3725.33,2024-02-19,Checking,New York,5657,Samantha Beck
+97635,738559,Deposit,3251.37,2022-12-26,Business,Chicago,1623,Michael Nguyen
+95604,662167,Deposit,3278.49,2023-08-27,Checking,Chicago,5240,Miss Rebecca Chen
+59655,209609,Deposit,4470.0,2022-10-22,Business,Miami,3756,Douglas Gutierrez
+36935,857434,Withdrawal,4864.61,2023-08-14,Savings,Miami,4902,David Fitzgerald DDS
+21242,548881,Withdrawal,1147.86,2022-12-08,Checking,Miami,3397,Sabrina Jones
+37416,770955,Withdrawal,2860.93,2024-02-18,Business,New York,5792,Peggy Gaines
+96479,663564,Withdrawal,863.9,2023-06-26,Business,Chicago,5429,Sherry Santiago
+44908,708233,Withdrawal,3599.78,2023-10-24,Checking,Miami,1144,Michael Hanson
+31545,771801,Withdrawal,2832.48,2022-11-05,Checking,Chicago,6985,Michelle Pace
+93315,317452,Deposit,1346.87,2024-02-23,Business,Houston,4503,James Rice
+66424,211629,Deposit,2267.28,2023-06-19,Business,Houston,3355,Tiffany Turner
+94801,728221,Deposit,4187.5,2023-11-14,Savings,Los Angeles,8357,Michael Ibarra
+68093,215404,Withdrawal,3390.6,2024-09-01,Business,Miami,1605,Heather Gray
+99991,838297,Deposit,1737.19,2022-11-30,Checking,Houston,6295,Brandon Alexander
+83113,418669,Deposit,2444.03,2023-02-21,Savings,Miami,9155,Sarah Mitchell
+65115,621319,Withdrawal,1328.59,2024-09-13,Savings,Houston,1392,Mary Ramos
+37200,822966,Withdrawal,2075.67,2023-06-11,Business,Los Angeles,1331,Jennifer Joseph
+65832,741735,Withdrawal,1380.86,2023-03-26,Business,Los Angeles,8508,Janet Ortiz
+73526,935342,Withdrawal,3439.45,2022-09-19,Checking,Houston,1639,Rachel Sanchez
+11892,381251,Deposit,3838.26,2024-08-12,Savings,Chicago,7967,Gary Randall
+74290,927551,Withdrawal,329.12,2024-07-24,Checking,Chicago,8354,Bruce Crosby
+20755,491016,Deposit,1484.63,2022-09-25,Business,Los Angeles,2399,Timothy Matthews
+88278,620828,Deposit,3939.99,2024-06-24,Business,Los Angeles,6527,Paul Russell
+68476,563754,Deposit,2709.18,2024-08-31,Business,Los Angeles,4133,John Simmons
+55509,493289,Withdrawal,3494.55,2023-03-10,Business,New York,6821,Patricia Jennings
+85294,852527,Deposit,1113.82,2024-05-02,Savings,New York,1019,Robert Sanchez
+94996,529866,Deposit,1867.43,2022-12-12,Checking,New York,6671,Megan Smith
+30486,639295,Deposit,4335.37,2023-08-08,Business,Chicago,5851,Miss Tricia Duke DDS
+94525,614387,Deposit,415.42,2024-09-16,Savings,Houston,2917,Christine Grant
+54186,207160,Deposit,3585.45,2023-10-06,Savings,Los Angeles,9062,Adrian Parker
+58130,666971,Withdrawal,114.5,2024-08-05,Savings,Los Angeles,4999,Jeanne Neal
+85206,126071,Withdrawal,2287.82,2023-07-20,Checking,Houston,5937,Cheryl Vasquez
+40930,865726,Withdrawal,2645.86,2023-11-01,Business,Chicago,5351,Victor Smith
+46753,707473,Withdrawal,4627.73,2024-09-08,Savings,New York,1305,Ralph Meadows
+26318,744369,Withdrawal,2009.85,2024-06-08,Savings,Miami,2379,Amanda Nelson
+99899,473052,Deposit,1399.95,2023-02-03,Checking,Miami,3945,Christopher Brown
+41898,459707,Withdrawal,3689.7,2023-08-26,Business,New York,9124,Linda Shields
+49457,211272,Withdrawal,798.07,2023-06-29,Checking,Los Angeles,7489,Tammy Zimmerman
+84486,430668,Deposit,1331.41,2022-11-27,Checking,New York,3795,Benjamin Shields
+75196,193721,Withdrawal,246.11,2023-06-15,Checking,New York,6818,Samantha Allen
+80293,379075,Withdrawal,4173.69,2023-08-08,Savings,Chicago,1275,Alexandria Gallegos
+19763,981884,Deposit,1254.11,2024-08-23,Checking,Miami,8920,Matthew Ortega
+55631,565708,Deposit,1466.41,2023-02-03,Savings,Houston,4654,Katherine Pearson
+60423,767714,Withdrawal,3548.36,2024-08-25,Savings,Miami,1800,Daniel Huber
+87096,266564,Withdrawal,865.24,2024-03-04,Business,Los Angeles,9635,Lisa Silva
+22107,106939,Withdrawal,3933.14,2023-08-07,Business,New York,1612,Barbara Alvarez
+52915,374639,Deposit,513.13,2024-08-03,Business,New York,2850,Larry Woods
+12384,465309,Withdrawal,3509.75,2023-06-02,Savings,Miami,3622,Michelle Moore
+71920,860247,Deposit,2439.84,2024-07-17,Business,Miami,1902,Catherine Hall
+16581,804207,Deposit,142.2,2023-12-15,Savings,Chicago,1225,Trevor Reese
+80373,914777,Deposit,1261.28,2023-02-24,Savings,Chicago,9356,Dylan Bryant
+77959,396318,Withdrawal,2813.73,2023-01-22,Business,Miami,3759,Mark Jensen
+32409,622359,Withdrawal,1476.89,2023-06-29,Savings,Chicago,3916,Charles Douglas
+61136,409046,Deposit,1107.41,2023-07-03,Business,Houston,8338,Rebecca Gilmore
+25101,392643,Withdrawal,2211.35,2023-07-27,Savings,Chicago,2674,Kara Shaffer
+81354,271430,Withdrawal,3304.13,2023-10-31,Checking,Los Angeles,4147,Brian Wright
+91502,464214,Withdrawal,978.85,2024-07-13,Business,Miami,2468,Donna Garza
+69844,630296,Deposit,1167.27,2024-02-14,Savings,Miami,7069,Scott Drake
+94186,806089,Withdrawal,2238.31,2023-07-20,Checking,Miami,2529,Gerald Smith
+14716,255487,Withdrawal,3527.98,2023-03-04,Savings,Los Angeles,3435,Timothy Roberts
+94519,390829,Withdrawal,4686.83,2023-02-10,Savings,Houston,8329,Dr. Daniel Martin
+40272,619821,Deposit,4060.6,2022-10-24,Business,Houston,1870,Joseph Elliott
+98280,234331,Withdrawal,3226.34,2023-01-27,Business,Houston,7533,Daniel Compton
+42877,800192,Deposit,4436.85,2024-02-06,Business,New York,9415,Douglas Rivas
+30511,886323,Deposit,1160.42,2023-08-09,Business,Chicago,1978,Bryan Valdez
+25791,123826,Deposit,2866.69,2024-04-04,Checking,Chicago,2558,Justin Cohen
+75368,805367,Deposit,904.12,2023-02-28,Business,Houston,8391,Mike Mcknight
+73062,788890,Deposit,3353.93,2024-06-28,Business,Chicago,6764,Anna Greene
+55527,789015,Withdrawal,3777.7,2023-12-25,Checking,Houston,8593,Sydney Brown
+24151,318075,Deposit,4450.56,2023-03-13,Savings,Houston,1020,Jeffery Hudson PhD
+20770,388012,Deposit,2281.0,2024-06-07,Business,New York,4708,Mandy Ramos
+24150,456083,Withdrawal,3786.18,2023-01-18,Savings,Los Angeles,4086,Daniel Roberts
+15123,710692,Withdrawal,765.23,2022-10-17,Checking,Houston,2674,Danny Mcconnell
+21911,288055,Deposit,3005.03,2024-03-27,Checking,Miami,6863,Rachel Miranda
+32229,274698,Deposit,3164.51,2022-11-10,Savings,Los Angeles,4798,Daniel Bowman
+33920,789208,Withdrawal,4378.75,2023-01-25,Checking,Los Angeles,1275,Carl Wood
+89325,842129,Deposit,2038.65,2024-01-07,Savings,Los Angeles,1913,Stephen Warren
+59060,111009,Deposit,1217.09,2024-06-11,Checking,Miami,6171,Barbara Black
+75956,388950,Deposit,4561.91,2024-02-26,Business,Los Angeles,8906,Gregory Thompson
+58151,542259,Withdrawal,4396.35,2024-09-15,Savings,Miami,7034,Kenneth Smith
+46313,151417,Withdrawal,2920.97,2023-04-15,Business,Chicago,1077,Hannah Bennett DDS
+35780,566091,Deposit,3448.86,2022-12-19,Business,Houston,2848,Scott Martinez MD
+36554,794388,Withdrawal,3913.73,2024-04-20,Checking,Los Angeles,6488,Diana Evans
+10821,360410,Withdrawal,1673.25,2024-07-31,Savings,New York,1414,William Rangel
+89360,654731,Deposit,793.81,2023-12-04,Business,Miami,3237,Joseph Davis
+56402,646703,Deposit,701.3,2024-01-29,Business,Chicago,6620,Maria Serrano
+86120,871410,Deposit,1816.68,2022-10-24,Business,Miami,8993,Jo Gutierrez
+16693,292065,Deposit,3013.69,2022-10-03,Savings,Chicago,2863,Anna Martin
+65020,285977,Withdrawal,4018.59,2024-08-18,Savings,Los Angeles,6467,Victoria Davis
+42760,982532,Deposit,4866.66,2024-01-27,Business,Houston,6755,Samuel Silva
+71044,101022,Deposit,332.95,2024-07-24,Savings,Houston,7656,Teresa Salazar
+44547,485765,Withdrawal,3418.11,2023-09-15,Savings,Chicago,6046,David Rice
+23757,818318,Withdrawal,642.03,2022-11-12,Savings,Houston,9626,Ronald Strickland
+59076,336998,Deposit,362.77,2024-01-22,Savings,New York,9586,Paula James
+45220,391801,Withdrawal,604.18,2023-02-14,Checking,Los Angeles,3957,Katelyn Lopez
+87381,736465,Deposit,4387.37,2023-07-23,Savings,Houston,2394,Wayne Kelley
+10393,236719,Withdrawal,417.5,2022-12-17,Business,Miami,7357,Brenda Bell
+61162,308107,Withdrawal,2571.05,2023-09-17,Business,New York,8880,Brenda Phillips
+57687,514622,Deposit,2278.35,2024-02-29,Savings,Chicago,5460,Lisa Roy
+33255,484256,Deposit,3192.87,2024-01-08,Savings,Chicago,5495,Jennifer Watson
+76318,415407,Deposit,4640.39,2023-10-25,Savings,Houston,3888,Mrs. Kimberly Chambers
+78488,708737,Deposit,3778.66,2023-07-17,Checking,Los Angeles,9367,Kelly Davis
+22665,298995,Withdrawal,998.79,2022-12-25,Savings,Houston,3566,Rebecca Young
+14585,666163,Withdrawal,4265.68,2022-10-15,Savings,Miami,1223,Kyle Ferguson
+62070,253715,Withdrawal,2571.26,2023-07-26,Checking,New York,4942,Julie Simpson
+56757,621539,Withdrawal,353.15,2023-10-27,Business,Houston,3740,Heather Hardy
+24133,589489,Deposit,4633.54,2023-10-08,Checking,Houston,3099,Jennifer Molina
+99922,138435,Withdrawal,4663.93,2023-11-03,Checking,Miami,4734,Ruth Gaines
+77891,192965,Deposit,3572.54,2023-01-06,Business,Miami,1545,Jeremy Bradley
+23391,978684,Withdrawal,4222.91,2023-08-27,Business,Los Angeles,3886,Andrea Owens
+87013,677685,Withdrawal,3282.64,2024-07-02,Savings,Chicago,3505,Isaac Russell
+88346,838162,Deposit,2722.0,2024-06-28,Checking,New York,2259,Andrew Perry
+39585,850293,Deposit,3529.99,2023-04-13,Business,Houston,5257,Cory Cline
+30155,712326,Withdrawal,3077.33,2023-10-24,Savings,Los Angeles,6159,Jerry Baker
+12680,798283,Withdrawal,2284.66,2023-12-28,Business,New York,3847,Sara Gray
+93545,451086,Deposit,1271.12,2024-03-07,Business,Chicago,8808,Nicole Ruiz
+17624,922285,Withdrawal,4633.91,2024-05-03,Checking,Houston,6722,Shannon Gonzalez
+54627,297873,Deposit,3797.1,2022-12-02,Checking,Miami,3880,John Sandoval
+35235,350874,Deposit,2776.66,2023-05-01,Savings,New York,9630,Deborah Gonzalez
+98273,481864,Deposit,437.13,2023-03-05,Checking,Chicago,9133,Debra Johnson
+55873,456408,Deposit,1699.23,2023-07-02,Checking,Houston,7043,Jeffrey Smith
+37854,351931,Withdrawal,3357.21,2023-04-26,Business,Chicago,6776,Nathan Sutton
+90085,781164,Withdrawal,4361.33,2023-01-18,Business,New York,8081,Mr. Matthew Prince
+97986,141163,Deposit,4636.82,2023-04-24,Savings,Los Angeles,3879,Gary Rocha
+15664,143913,Deposit,1615.81,2023-06-10,Business,Los Angeles,7326,Nicholas Caldwell
+22704,608453,Deposit,96.64,2024-08-16,Checking,Los Angeles,7936,Anne Smith
+40784,610820,Withdrawal,4072.35,2022-11-26,Checking,Chicago,1788,Julie Leonard
+75505,572077,Withdrawal,1749.14,2023-08-31,Business,Houston,8966,Rose Armstrong
+66895,245409,Withdrawal,4329.29,2023-01-31,Checking,Los Angeles,5071,Derek Palmer
+93686,916950,Withdrawal,3370.58,2023-09-18,Checking,Houston,2533,Tracey Lee
+95344,596156,Deposit,855.04,2024-06-09,Checking,New York,9304,Austin Smith
+15228,680831,Withdrawal,854.18,2022-10-06,Checking,New York,5908,Mikayla Smith
+25657,134562,Withdrawal,1849.42,2023-04-02,Checking,Chicago,3385,Mr. Dennis Rowland
+90956,390273,Deposit,3652.59,2023-02-25,Savings,Chicago,1694,Kathryn Rivers
+24530,983766,Withdrawal,3856.61,2023-06-08,Savings,New York,5779,Dana Mccormick
+86832,371594,Withdrawal,1146.0,2024-04-21,Business,Los Angeles,4261,Jessica Mason
+14732,748240,Deposit,4687.97,2024-02-01,Checking,Miami,9291,Joshua Young
+54887,527437,Deposit,722.23,2023-09-05,Checking,New York,6067,Keith Lee
+14405,589696,Deposit,3242.21,2024-08-13,Business,Los Angeles,5357,James Rivera
+62174,392325,Deposit,1204.97,2023-03-27,Savings,New York,5835,Jennifer Rodriguez
+93580,470517,Deposit,2720.29,2024-06-07,Checking,Chicago,9296,Katherine Scott
+29929,426016,Withdrawal,681.02,2024-06-03,Savings,Chicago,6088,Hannah Miller
+57736,552613,Deposit,3678.59,2024-07-04,Checking,Chicago,6113,Mark Robbins
+25379,130586,Deposit,4844.17,2024-05-17,Savings,Miami,9937,Stephanie Guerrero
+47151,424160,Withdrawal,1720.45,2022-11-26,Checking,Los Angeles,4730,Joshua Garcia
+13965,535437,Deposit,2564.33,2023-09-26,Savings,Houston,7358,Jennifer Welch
+37596,135138,Deposit,172.59,2023-09-23,Checking,New York,6248,Lauren Martin
+76202,922279,Withdrawal,4397.32,2022-11-05,Savings,Miami,7531,Joseph Garrison
+25271,796230,Withdrawal,3635.35,2023-01-12,Business,Los Angeles,1830,John Moore
+42031,111741,Withdrawal,1443.99,2023-12-20,Savings,New York,8105,Bradley Shaffer
+27786,582429,Withdrawal,1002.67,2024-02-21,Checking,Los Angeles,9955,Scott Ryan
+59278,337171,Deposit,2619.22,2022-11-03,Savings,Los Angeles,6894,Kathleen Norman
+69632,405028,Withdrawal,1029.06,2023-06-10,Savings,Houston,4353,Karl Rivera
+29802,979522,Withdrawal,367.65,2023-07-08,Business,New York,8211,Jason Stephens
+90987,348648,Deposit,2000.44,2023-04-16,Savings,Houston,3506,Daniel Fernandez
+82765,331560,Withdrawal,4225.41,2022-11-30,Business,Houston,3244,Dr. Jennifer George
+62610,362075,Deposit,3261.75,2023-07-22,Savings,Houston,9961,Elizabeth Jones
+36197,812524,Deposit,3320.66,2024-05-31,Savings,Miami,6579,Tracy Mcdaniel
+49286,314221,Deposit,1318.26,2023-05-03,Business,Houston,3117,Edward Bailey
+67902,888204,Deposit,1607.41,2022-10-03,Business,Houston,8792,Robert Martin
+88305,101841,Withdrawal,4619.69,2022-11-10,Checking,New York,7789,Shawn Rogers
+39884,774894,Withdrawal,2852.45,2023-04-03,Checking,Chicago,4240,Christopher Williams
+79831,252328,Deposit,2760.77,2023-08-21,Checking,Houston,5814,Jenna Underwood
+98482,178444,Withdrawal,3729.3,2023-02-25,Business,New York,3916,Jonathan Gordon
+11018,577270,Deposit,4098.11,2023-06-22,Savings,Chicago,2340,Shane Romero
+93248,590806,Withdrawal,2303.37,2024-07-08,Checking,Los Angeles,4517,Scott Jackson
+77196,530955,Deposit,974.94,2024-03-23,Business,Miami,8194,Angela Greene
+74401,356898,Withdrawal,4224.18,2023-09-06,Savings,Miami,3607,Samuel Paul
+12401,479218,Deposit,3755.15,2023-07-30,Checking,Miami,2159,Robert Scott
+18325,623624,Deposit,4634.21,2024-04-12,Savings,Los Angeles,4857,William Brown
+21081,426340,Deposit,4073.43,2023-07-03,Business,New York,3713,Rachel Carroll
+35274,337879,Deposit,4959.75,2022-10-08,Checking,Chicago,1640,Jeffrey Castro
+57709,715768,Deposit,4537.54,2023-09-17,Business,New York,4629,Shawn Richards
+65378,474518,Deposit,229.57,2024-05-07,Business,Los Angeles,3391,Alexandria Shaw
+11485,343900,Withdrawal,3674.16,2022-10-11,Savings,New York,9486,Johnny Frazier
+29310,108269,Deposit,4325.23,2024-07-17,Business,New York,2787,Madison Rivera
+46097,665930,Withdrawal,2995.44,2022-12-20,Savings,Los Angeles,4245,Cory Jackson
+59364,569839,Withdrawal,2384.93,2024-06-07,Business,New York,2537,Aaron Mitchell
+56301,121303,Withdrawal,1415.57,2024-03-23,Savings,Miami,4060,Lisa Spencer
+10472,498202,Deposit,4397.84,2023-10-14,Checking,Chicago,9511,Keith Nielsen
+26554,350451,Withdrawal,3358.79,2023-12-22,Business,Chicago,9273,Kyle Little
+99080,493477,Withdrawal,839.4,2023-04-11,Business,Miami,9088,Carolyn Wilson
+90437,619821,Withdrawal,3765.59,2023-02-14,Business,New York,5218,Ronald Allen
+11701,319824,Withdrawal,2087.71,2024-03-26,Savings,New York,3089,Brittany Guzman
+29844,489316,Withdrawal,3169.43,2022-11-23,Savings,Los Angeles,5675,Christopher Arnold
+53024,558303,Withdrawal,1475.76,2023-02-25,Savings,New York,2500,Adrienne Baker
+76639,857636,Withdrawal,3736.42,2023-01-21,Business,Chicago,1160,Kevin Walters
+43488,984441,Withdrawal,2963.05,2023-02-16,Savings,Chicago,6980,Tyler Ware
+44548,375740,Deposit,1533.43,2024-07-23,Business,Houston,1526,Mrs. Stefanie Phillips
+87957,567428,Withdrawal,4899.24,2024-07-28,Business,New York,9548,Joshua Salas
+15087,488067,Withdrawal,2926.44,2023-10-23,Business,Houston,5133,Matthew Davis
+25494,401662,Withdrawal,4310.67,2023-05-14,Checking,New York,3890,Brian Hill
+97232,378156,Deposit,2934.64,2024-06-07,Business,New York,5590,Mitchell Rios
+62765,339966,Withdrawal,3673.31,2023-07-15,Savings,Los Angeles,4935,Monica Mccoy
+44453,194018,Deposit,1133.91,2024-08-06,Checking,Chicago,8854,Erin Wallace
+90858,787387,Deposit,2568.75,2024-05-27,Business,Houston,5590,Dominique Thomas
+49816,310104,Deposit,1640.45,2023-10-09,Checking,Los Angeles,8901,Matthew Jacobson
+88265,914003,Deposit,1437.21,2024-08-23,Checking,Miami,7597,James Patrick
+51976,470763,Withdrawal,3217.95,2023-12-02,Savings,Miami,9151,Gerald Taylor
+10291,364733,Withdrawal,4851.91,2023-07-24,Checking,Los Angeles,3153,Cody Davis
+69452,902000,Withdrawal,3014.78,2023-03-18,Business,Chicago,6958,Jennifer Alvarado
+70937,361606,Deposit,3547.27,2022-11-06,Business,New York,7256,Leslie Oliver
+48151,114639,Withdrawal,151.83,2022-11-18,Savings,Miami,1753,Cory Rich
+23248,363430,Deposit,2942.29,2022-09-17,Business,Chicago,2158,Heather Hancock
+10400,418733,Deposit,1173.84,2023-06-10,Savings,Los Angeles,9679,Jacob Harris
+38670,389159,Deposit,1137.43,2023-06-09,Checking,Los Angeles,6318,Joshua Mack
+93371,652711,Deposit,330.12,2024-06-14,Business,Miami,2822,Julian Miller
+62205,331149,Deposit,844.16,2024-07-01,Checking,Chicago,1822,Adam Martin
+41573,228484,Withdrawal,4450.4,2022-11-11,Checking,New York,5777,Stephanie Little
+52867,409700,Deposit,382.16,2023-09-30,Savings,Houston,1570,Dana Smith
+23792,946367,Deposit,4630.6,2024-02-06,Savings,Los Angeles,1922,Anthony Larson
+28513,842067,Withdrawal,4869.62,2024-02-21,Checking,Miami,3981,Donna Robbins
+58584,830055,Withdrawal,1287.02,2022-12-14,Checking,Houston,4686,Jared Taylor
+24140,571453,Deposit,3695.66,2022-12-07,Savings,Chicago,6777,Troy Lloyd
+23200,236636,Deposit,2372.23,2024-02-17,Checking,Houston,1710,Andrew Cook
+94230,434117,Deposit,1355.17,2024-01-13,Savings,Miami,1894,Timothy Odonnell
+96659,964706,Deposit,2142.4,2023-07-12,Business,Los Angeles,4763,Alyssa Jones DVM
+64867,721685,Deposit,2373.83,2024-03-02,Savings,Houston,3190,Lee Conner
+62766,671101,Withdrawal,2448.35,2023-04-27,Business,Houston,6594,Robert Contreras
+95299,236250,Deposit,1923.38,2024-07-20,Checking,Los Angeles,4022,Amanda Vaughn
+10632,669573,Withdrawal,1531.34,2024-08-03,Savings,New York,8582,James Scott
+80047,647331,Deposit,3957.62,2023-08-06,Business,Los Angeles,8356,Darlene Rivera
+59021,877260,Withdrawal,2630.84,2024-08-08,Savings,Houston,8905,Anna Davis
+95353,313991,Deposit,1354.89,2023-07-17,Business,Los Angeles,1097,Kimberly Gibson
+33045,524530,Withdrawal,3786.35,2023-10-20,Savings,Miami,9967,Sophia Buchanan
+87691,191812,Deposit,1195.69,2024-06-12,Checking,Los Angeles,1622,Kyle Smith
+21060,608494,Withdrawal,275.27,2023-06-16,Checking,Miami,3305,Daniel Robinson
+28725,889484,Deposit,3895.63,2024-06-03,Savings,Miami,1472,Emily Simpson
+76067,423610,Withdrawal,3293.25,2024-05-28,Checking,New York,4613,Timothy Bowman
+99698,426017,Deposit,4453.58,2024-07-27,Business,Los Angeles,3531,Kimberly Martinez
+70021,592197,Withdrawal,333.03,2023-03-11,Checking,New York,9509,Vincent Hunter
+19077,448145,Deposit,3618.22,2023-08-18,Business,Chicago,6081,Sandra Diaz
+56873,193777,Deposit,3222.82,2023-12-03,Business,Miami,4872,Dr. Sarah Morales
+91824,495815,Deposit,1115.78,2024-05-24,Business,Chicago,4933,Scott George
+32140,254155,Deposit,566.43,2023-03-22,Business,Miami,5780,Susan Larson
+18615,223202,Deposit,2152.95,2023-04-09,Savings,Chicago,2020,David Rodriguez
+46009,289238,Deposit,4769.49,2022-09-23,Checking,Houston,1086,Chelsea Bowman
+76787,546928,Deposit,823.91,2024-01-14,Savings,Los Angeles,5202,Bradley Herman
+82072,424438,Deposit,3802.46,2024-03-24,Business,Chicago,4142,Christopher King
+38122,746128,Withdrawal,1466.19,2024-05-14,Checking,Los Angeles,7823,Martin Osborn
+73873,788635,Deposit,4160.55,2024-05-18,Business,Houston,4232,Eric Gonzales
+70904,661272,Deposit,1651.24,2024-09-01,Savings,Los Angeles,9401,Luke Farmer
+39686,465701,Deposit,4436.52,2023-12-16,Business,Los Angeles,4009,Ryan Mcneil
+21042,959367,Deposit,2118.21,2022-10-24,Savings,New York,8789,Patrick Booker
+49553,612900,Deposit,4626.16,2023-07-13,Checking,Houston,1872,Katherine Flowers
+39001,314045,Withdrawal,4958.14,2023-05-04,Savings,New York,6673,Antonio Dunlap
+53808,400416,Withdrawal,1654.81,2023-04-18,Checking,Los Angeles,6697,Jason Chase
+30390,662011,Withdrawal,4468.25,2023-05-14,Business,Houston,7166,Justin Bailey
+44333,790648,Deposit,832.07,2022-10-28,Savings,Houston,6443,Paul Sampson DDS
+98850,313724,Withdrawal,610.69,2022-12-15,Savings,Houston,2413,Margaret Martin
+64400,132701,Deposit,4894.16,2023-09-04,Business,Houston,8228,Andrew Calhoun
+36259,672286,Withdrawal,1605.88,2023-10-18,Business,Miami,5720,Anthony Smith
+14634,900770,Deposit,1773.67,2024-02-17,Savings,Chicago,9088,Lindsey Dixon
+25388,790712,Deposit,4514.47,2023-09-07,Savings,New York,9249,Rick Weber
+64644,282483,Deposit,2096.15,2024-08-06,Business,Chicago,7079,Lori Garcia
+70221,129297,Withdrawal,4403.92,2023-07-04,Checking,Miami,6684,David Ball
+23707,394701,Withdrawal,3712.54,2023-02-17,Savings,Los Angeles,2357,Melissa Lopez
+50291,653125,Withdrawal,1688.03,2023-08-02,Savings,Houston,7430,Bryan Williams
+91438,837632,Withdrawal,2600.25,2024-04-03,Business,Chicago,8651,Taylor Hardy
+58129,514543,Withdrawal,1986.56,2024-02-08,Checking,New York,4401,Jared Tyler
+25435,973950,Deposit,4481.55,2023-03-14,Savings,Miami,1222,Karen Jordan
+42134,380742,Deposit,4567.36,2024-04-13,Checking,Miami,8613,Dr. Helen Myers
+33356,246136,Withdrawal,4930.27,2023-05-14,Checking,Houston,8953,Jason Wilson
+64373,750569,Deposit,3417.97,2023-10-08,Checking,Los Angeles,5081,James Brown
+47058,302680,Withdrawal,4508.22,2023-10-14,Checking,Los Angeles,5524,Christina Martinez
+34315,609626,Withdrawal,229.28,2023-12-28,Business,Houston,8333,Victor Burke
+24450,633204,Withdrawal,2363.82,2024-08-29,Business,New York,4888,Kevin Gallegos
+93084,427994,Withdrawal,2470.67,2022-11-06,Checking,New York,9888,James Stokes
+72431,591941,Deposit,93.37,2022-10-12,Checking,Miami,5407,Kathleen Ware
+16737,203828,Deposit,4565.76,2024-06-10,Checking,Chicago,4990,Cristina Santos
+58875,789045,Withdrawal,4391.25,2023-06-14,Checking,Miami,3527,Melissa Smith
+53603,919589,Withdrawal,3003.36,2023-12-31,Savings,Chicago,1082,Jonathan Patel
+81294,351633,Withdrawal,2563.27,2023-07-11,Business,Chicago,1435,Isabel Wade
+91503,972024,Withdrawal,2246.39,2023-03-05,Business,Miami,1717,Anthony Smith
+53738,974752,Withdrawal,3626.47,2022-12-24,Savings,Los Angeles,5002,Shane Howard
+43406,291286,Deposit,2182.04,2023-03-14,Savings,New York,9065,Kevin Shepherd
+25081,848545,Deposit,3527.38,2023-01-10,Savings,Los Angeles,4211,Cathy Dorsey
+41140,976368,Deposit,1599.99,2022-09-24,Checking,New York,3006,Scott Thompson
+10545,919872,Deposit,1457.19,2022-10-01,Business,Los Angeles,7262,Bethany Phillips
+25026,886289,Withdrawal,1960.41,2023-09-12,Savings,Los Angeles,2619,Nancy Gonzalez
+71634,382152,Deposit,619.51,2023-06-19,Savings,New York,6648,Edward Winters
+99581,578112,Deposit,4947.13,2024-07-04,Savings,Los Angeles,4567,Charles Turner
+76190,946252,Withdrawal,439.15,2023-03-14,Business,Chicago,1270,Krista Williamson
+26414,882692,Deposit,2396.19,2022-12-25,Checking,New York,4749,Paul Waters
+24573,587383,Withdrawal,1906.41,2023-04-10,Business,Houston,9505,Robert Hansen
+56942,599946,Deposit,4665.33,2022-09-29,Checking,Los Angeles,9818,Brittany King
+69517,583588,Withdrawal,3388.66,2023-09-25,Business,Chicago,9323,Devin Day
+14371,690579,Deposit,3639.17,2024-05-30,Checking,Chicago,3959,Karen Bishop
+51327,827383,Withdrawal,1267.55,2023-07-02,Business,New York,7707,Anne Lawrence
+26583,506390,Deposit,1565.32,2023-04-12,Business,Houston,2150,Brenda Smith
+39736,111436,Deposit,4345.94,2023-12-20,Savings,Houston,8941,Dr. Crystal Collier
+54337,739661,Withdrawal,4048.6,2024-03-15,Savings,Miami,1085,David Mckinney
+43914,502611,Deposit,2005.12,2024-08-14,Checking,Los Angeles,5780,Todd Mullins
+70690,632873,Deposit,4296.91,2022-11-14,Savings,Los Angeles,5388,Erin Brown
+14490,938633,Deposit,3740.53,2024-05-31,Business,New York,1953,Robert King
+88749,415875,Deposit,357.43,2022-12-18,Business,New York,4866,Austin Gay
+66168,318054,Deposit,1583.07,2023-12-03,Savings,Los Angeles,1922,Robert Brown
+61756,289230,Deposit,2789.08,2023-09-29,Checking,Chicago,6024,Erik Jackson
+38716,602228,Deposit,417.01,2024-05-11,Checking,Los Angeles,6902,Mark Leon
+28988,427675,Deposit,295.48,2024-09-01,Business,Los Angeles,5189,Michelle Carpenter
+81432,180379,Withdrawal,4598.9,2023-01-09,Checking,Houston,4172,Dawn Huber
+92147,881444,Deposit,2925.32,2024-03-17,Savings,Houston,3893,Victoria Ford
+49378,134082,Withdrawal,3390.21,2023-06-07,Savings,Los Angeles,2048,Lee Morales
+51734,308663,Deposit,1757.39,2023-03-11,Checking,New York,3044,Ricky Lopez
+75525,498553,Withdrawal,2772.6,2023-10-03,Checking,Los Angeles,9534,April Kramer
+66337,281312,Deposit,3245.42,2023-08-25,Checking,Miami,4806,Thomas Thompson
+64375,303350,Withdrawal,4603.31,2024-08-17,Savings,Houston,3046,Michael Flores
+91077,805547,Withdrawal,375.01,2023-03-08,Business,Los Angeles,7935,Larry Wilson
+17985,653632,Withdrawal,3233.42,2023-07-16,Checking,Miami,3777,Leslie Norman
+56306,757698,Withdrawal,3154.19,2024-05-29,Business,Los Angeles,4643,Kimberly Cherry
+74644,132679,Deposit,590.34,2024-07-01,Checking,New York,2688,Terry Wilson
+40485,817627,Deposit,4294.41,2024-03-20,Business,Houston,5709,Christopher Oconnor
+81932,456255,Withdrawal,4495.72,2023-06-21,Business,Chicago,7736,Michael Adams
+22589,432700,Withdrawal,581.32,2023-09-07,Savings,Chicago,1083,Sonia Yoder
+46493,797832,Deposit,3733.88,2024-08-01,Savings,New York,9529,Anna Middleton
+28371,931263,Deposit,886.23,2022-12-17,Business,New York,6098,Jorge Allen
+74634,818701,Withdrawal,4590.7,2022-11-29,Checking,Miami,8670,Jillian Brown
+18085,704452,Withdrawal,697.07,2024-03-07,Business,New York,6202,Ashley Morales
+89946,154351,Deposit,3447.49,2023-09-07,Business,Chicago,8529,Denise Payne
+33820,114367,Deposit,2219.44,2024-06-22,Business,New York,5402,Dr. Robert Murray
+79155,599972,Deposit,4861.67,2023-04-01,Savings,Miami,4369,Jonathan Manning
+33861,222040,Deposit,4342.71,2023-10-08,Business,Chicago,3457,Timothy Smith
+57616,455851,Deposit,957.23,2023-05-17,Business,Los Angeles,1606,Deborah Sawyer
+44689,766459,Deposit,1462.75,2024-05-13,Business,Los Angeles,3159,Brandon Zavala
+98885,942837,Deposit,1488.52,2024-05-06,Checking,Miami,7401,Jasmine Jackson
+92759,871890,Deposit,3934.34,2023-10-10,Checking,Miami,7183,James Molina
+75640,474720,Withdrawal,1130.46,2024-02-21,Business,Houston,7069,Courtney Barton
+99496,462834,Withdrawal,1255.79,2023-06-22,Savings,Miami,7222,Lauren Thomas
+67824,147247,Withdrawal,4233.94,2023-08-01,Savings,Los Angeles,4095,Shelley Johnson
+42625,766087,Withdrawal,4953.16,2023-08-12,Checking,Chicago,3378,Matthew Smith
+27223,945300,Withdrawal,87.21,2023-01-28,Checking,Los Angeles,8388,Darren Montes
+30960,141164,Withdrawal,2062.82,2024-01-29,Business,Los Angeles,9876,Jamie Anderson
+75923,582818,Withdrawal,4258.44,2024-01-01,Business,Chicago,2185,Jeremy Clark
+83552,431988,Withdrawal,2578.05,2023-01-13,Business,Houston,5920,Katrina Brown
+66672,800783,Withdrawal,1389.18,2024-06-24,Business,Los Angeles,6140,Angela Thompson
+23688,937233,Withdrawal,2990.63,2023-04-06,Savings,Chicago,6775,Anna Freeman
+74994,141571,Withdrawal,1193.15,2024-08-29,Business,Chicago,5349,Lindsey Cole
+97260,545333,Deposit,2520.59,2023-10-22,Checking,Los Angeles,1896,Logan Butler
+90008,443320,Withdrawal,4402.07,2022-11-26,Business,Los Angeles,1999,Denise Caldwell
+29042,107211,Deposit,2661.1,2022-11-04,Savings,Los Angeles,5269,Kevin Velasquez
+33983,191415,Withdrawal,1776.95,2023-11-22,Savings,Los Angeles,1182,Matthew Peck
+95244,363452,Withdrawal,1632.69,2023-05-28,Business,Houston,9576,Jeffrey Cohen
+20775,958904,Deposit,3385.71,2023-06-28,Checking,Chicago,3010,Robert Mccullough
+44198,395818,Deposit,4555.5,2023-05-07,Checking,Chicago,3464,Robert Kim
+28251,213235,Withdrawal,2979.92,2024-01-22,Savings,Chicago,4832,Dawn Strong
+88065,751593,Deposit,317.26,2024-05-22,Checking,Chicago,1510,Dennis Tucker
+33133,665158,Deposit,4759.67,2024-02-25,Savings,Miami,3241,Richard Perez
+72384,627776,Deposit,1269.84,2024-01-06,Savings,Houston,5398,Mrs. Tina Flores
+68200,863545,Withdrawal,1364.43,2024-06-06,Business,Chicago,3969,Lisa Howard MD
+59243,673186,Withdrawal,1616.52,2024-06-19,Savings,Houston,6868,Derek Lee
+33667,702915,Deposit,1133.92,2023-05-27,Business,Los Angeles,3262,Ashley Ramos
+16411,606237,Deposit,192.61,2023-10-11,Checking,New York,1871,Deborah Edwards
+49017,875555,Deposit,1598.19,2022-11-04,Checking,Chicago,1540,Justin Perkins
+89431,369309,Withdrawal,4065.14,2024-04-24,Checking,Houston,7454,Wanda Bean
+43421,427041,Deposit,2241.52,2022-10-12,Business,Miami,3292,Mark Romero
+12665,787438,Deposit,1955.37,2023-05-31,Checking,Houston,6097,Amber Dudley
+59210,728800,Deposit,2103.51,2024-05-23,Checking,Los Angeles,7288,David Gould
+49644,936417,Deposit,1273.4,2024-07-14,Savings,Chicago,2789,David Hall
+26237,506644,Deposit,4182.56,2022-10-31,Business,Houston,4257,Wayne Anderson
+53426,283991,Withdrawal,4484.04,2023-12-13,Business,Miami,3573,Monique Tucker
+84130,987610,Deposit,1898.39,2023-03-19,Business,Los Angeles,7932,Ronald Jarvis
+28744,304262,Withdrawal,3797.7,2024-05-28,Business,Chicago,3269,David Williams
+50076,816044,Withdrawal,2657.87,2023-10-18,Savings,Houston,4652,Christopher Wolfe
+52488,521514,Deposit,2165.9,2023-10-31,Checking,Miami,4219,Scott Jarvis
+36619,840219,Deposit,546.98,2023-04-08,Savings,Chicago,9530,Lauren Chavez
+27432,958876,Deposit,1254.62,2023-05-26,Checking,New York,6624,John Stone
+15904,492911,Deposit,2536.71,2023-03-27,Checking,New York,4710,Jennifer Berger
+17005,172765,Deposit,4053.1,2023-12-21,Business,Los Angeles,2711,David Taylor
+81147,745097,Withdrawal,2101.03,2023-01-11,Checking,Miami,6668,Calvin Daniels
+77090,409785,Withdrawal,3544.3,2024-09-14,Business,Chicago,2860,Jennifer Moreno
+88951,187838,Deposit,1966.89,2023-11-06,Business,New York,9399,Christopher Vasquez
+96581,252338,Deposit,1412.68,2022-11-16,Business,Los Angeles,5634,Karen Carter
+28785,667203,Deposit,569.21,2023-07-15,Savings,Houston,1054,Dr. James Mitchell
+20455,584931,Withdrawal,900.57,2023-02-27,Savings,Houston,5649,Richard Kelly
+12149,773930,Deposit,2750.32,2023-12-11,Checking,Miami,6144,Regina White
+60169,815519,Withdrawal,1094.39,2022-10-08,Checking,Houston,8700,Kimberly Robinson
+62450,828157,Withdrawal,1035.65,2022-09-25,Checking,Miami,2057,Robert Jimenez
+33356,223265,Withdrawal,2089.77,2022-12-12,Savings,New York,8760,David Torres
+95745,604748,Withdrawal,785.06,2023-05-29,Savings,Miami,9049,Katie Martin
+86534,759454,Withdrawal,2260.42,2024-04-20,Savings,New York,9302,Courtney Mendoza
+70788,919016,Withdrawal,3648.98,2024-04-24,Checking,Los Angeles,4835,Gary Lewis
+33144,764238,Withdrawal,4340.67,2023-09-01,Savings,Chicago,9396,Paula Rios
+34891,397801,Withdrawal,4838.19,2024-02-09,Savings,Los Angeles,1483,James Hernandez
+29474,426285,Deposit,3215.05,2023-10-03,Business,New York,1891,Patricia Robertson
+56458,466216,Deposit,1377.64,2023-07-11,Savings,Los Angeles,6256,Ellen Wallace
+81999,210043,Deposit,2293.26,2023-12-16,Business,Houston,5556,Jennifer Hernandez
+37345,142479,Withdrawal,515.3,2023-10-31,Business,New York,8842,Sharon Phillips
+32512,859673,Withdrawal,3538.47,2024-05-30,Savings,Houston,6898,Jamie Sims
+82142,794105,Withdrawal,119.6,2023-06-02,Savings,Houston,8317,Amanda Jenkins
+99444,652970,Deposit,4188.91,2022-10-05,Savings,Chicago,7861,Yolanda Cannon
+48237,830643,Withdrawal,3217.39,2023-06-16,Savings,Houston,6665,Joseph Morris
+22194,131515,Withdrawal,843.7,2023-06-10,Savings,New York,7736,Joel Gilbert
+50399,440943,Withdrawal,2183.27,2023-02-19,Checking,Miami,7210,Amber Moore
+70627,930980,Withdrawal,1306.54,2023-12-28,Savings,Los Angeles,7112,Dennis Williams
+18174,596137,Withdrawal,2174.43,2024-06-04,Checking,Houston,8670,Alan Snow
+32643,939773,Withdrawal,4856.52,2022-12-27,Savings,New York,3528,Richard Mcguire
+88433,180867,Deposit,3661.73,2022-09-18,Business,New York,9391,Stephanie King
+94344,450036,Withdrawal,1664.84,2024-05-22,Checking,Chicago,3102,Stacy Pena
+36598,367243,Withdrawal,1897.48,2024-04-08,Savings,Chicago,1260,Sean Lopez
+66239,143440,Withdrawal,4054.18,2023-07-04,Checking,Houston,1909,Meghan Morris
+75826,607011,Deposit,3247.84,2024-02-09,Savings,Los Angeles,8467,Chase Harris
+95293,654581,Withdrawal,4573.7,2024-06-01,Savings,Houston,5188,Tanner Smith
+85192,288233,Deposit,2955.93,2022-10-05,Checking,New York,1805,Alexandria Peterson
+71485,749007,Deposit,2704.04,2024-07-09,Business,New York,3338,Jacob Garza
+78835,523054,Withdrawal,1797.89,2023-04-09,Checking,Chicago,1583,Brenda Smith
+46845,361356,Deposit,531.25,2023-07-16,Savings,New York,8352,Savannah May
+93328,165883,Withdrawal,2128.28,2022-12-03,Checking,Houston,2654,Tracey Lester
+69210,607534,Withdrawal,4993.01,2024-05-14,Savings,Miami,9151,Brenda Smith
+67878,795300,Deposit,4670.53,2024-08-27,Business,Chicago,7574,Renee Jordan
+33753,243033,Deposit,2734.5,2024-03-29,Checking,Houston,7160,Amanda Long
+74359,266886,Withdrawal,1419.75,2024-04-03,Savings,Houston,2547,Bob Bowman
+91835,830514,Deposit,400.85,2023-04-01,Business,Chicago,1443,Adam Miles
+59949,540526,Withdrawal,4717.46,2023-08-15,Business,Los Angeles,7059,Lindsay Barr
+42346,353493,Deposit,2680.39,2023-01-11,Checking,Los Angeles,4200,Laura Irwin
+32902,323906,Withdrawal,3754.68,2023-07-22,Business,Los Angeles,2470,Cindy Willis
+61944,896998,Deposit,2325.69,2023-12-06,Savings,Los Angeles,6747,Amber Hancock
+58966,673588,Withdrawal,3713.49,2023-04-19,Business,New York,6032,Jenny Sawyer
+95308,745409,Deposit,4001.98,2024-01-29,Business,Los Angeles,3364,Randall Bridges
+93491,157197,Withdrawal,1577.76,2024-03-12,Checking,Miami,1447,Jason Fleming
+88555,622679,Withdrawal,483.25,2023-10-17,Business,New York,3289,Jennifer Larsen
+30927,802294,Withdrawal,3906.76,2022-09-17,Business,New York,6666,Ashley Ellis
+65119,268193,Deposit,1388.86,2024-07-03,Business,Houston,9493,Jose Norris
+60161,919379,Deposit,321.9,2024-07-18,Checking,Miami,5651,Rachel Dougherty
+84013,885836,Deposit,2453.01,2024-03-08,Checking,Miami,8276,Gary Lester
+52478,950929,Deposit,4629.96,2024-08-23,Business,Los Angeles,5687,Renee Spencer
+33418,331415,Withdrawal,4908.57,2023-01-06,Savings,Houston,5959,Taylor Murphy
+94603,944117,Withdrawal,4530.49,2023-08-09,Business,Miami,1946,Tammy Diaz
+34664,686844,Withdrawal,4534.47,2023-08-19,Business,New York,3130,Tyler Trevino
+89399,678434,Withdrawal,4411.23,2024-08-28,Checking,New York,7757,Jennifer Moss
+98746,825413,Withdrawal,1627.63,2022-10-23,Savings,Miami,7092,Roger Carpenter
+39447,820822,Withdrawal,1245.21,2023-09-03,Savings,Los Angeles,2596,Andrew Hoover
+16455,604741,Withdrawal,1516.31,2023-04-30,Savings,Los Angeles,2070,Gerald Lewis
+65114,976188,Withdrawal,3822.06,2024-08-20,Savings,Los Angeles,5823,Paula Bradley
+46620,757987,Deposit,1943.31,2023-01-16,Business,Houston,1102,Brandon Schwartz
+80542,346330,Deposit,2354.78,2024-08-31,Checking,New York,4710,Teresa Nolan
+90542,925592,Withdrawal,1862.23,2024-04-21,Savings,Chicago,7508,Jessica West
+23489,712725,Deposit,1271.76,2023-04-11,Checking,New York,8746,Angela Campbell
+59999,548928,Deposit,3477.64,2022-11-14,Business,Chicago,3727,Bradley Smith
+92705,672753,Withdrawal,3406.99,2024-03-08,Business,Los Angeles,8623,Sherri Mitchell
+84652,926128,Withdrawal,651.91,2023-08-08,Business,New York,7180,Christopher Hancock
+42395,247528,Withdrawal,2157.52,2024-09-04,Savings,New York,8183,Tyler Johnson
+98085,457178,Deposit,3117.24,2024-01-11,Checking,Houston,9264,Jasmine Gordon
+88137,391020,Deposit,2387.33,2023-01-06,Savings,Miami,8303,Sarah Pineda
+26461,620582,Deposit,4267.72,2023-01-11,Business,New York,1352,James Harris
+28764,254428,Withdrawal,4473.51,2023-02-28,Savings,Chicago,1361,Allen Waller
+16248,929993,Deposit,1948.3,2022-10-06,Checking,Chicago,5727,Dr. Anthony Edwards
+68417,837975,Withdrawal,385.67,2023-09-05,Business,Chicago,1712,Sarah Miranda
+47674,289695,Deposit,2386.73,2023-05-29,Savings,New York,4665,Kristen Hall
+41579,403496,Withdrawal,1385.8,2024-05-02,Checking,Houston,1245,Timothy Richardson
+46712,378067,Withdrawal,992.49,2024-08-11,Business,Houston,9578,Sarah Fitzgerald
+66697,810747,Deposit,4989.77,2023-08-12,Checking,Miami,4383,Kyle Stafford
+41067,196182,Deposit,3842.47,2024-05-27,Checking,New York,9455,Adam Nichols
+76139,375711,Deposit,4731.09,2023-03-27,Checking,Miami,2441,Ashley Miller
+55961,990962,Deposit,2458.43,2024-01-08,Business,Los Angeles,4599,Brian Sharp
+52710,276119,Deposit,2595.16,2023-07-20,Business,Miami,6620,Thomas Simmons
+81537,708472,Withdrawal,2777.8,2023-11-21,Business,Miami,1915,Kevin Wells
+25612,509706,Deposit,475.97,2023-08-04,Business,Chicago,5056,James Thomas
+18270,127015,Deposit,3537.56,2023-05-18,Savings,Chicago,4290,Vernon Jenkins MD
+88319,921131,Deposit,1546.0,2024-02-22,Savings,New York,1893,Andrew Suarez
+70338,843352,Deposit,3332.27,2022-11-19,Savings,Los Angeles,3621,Ariana Hardy
+31012,358005,Withdrawal,692.31,2024-08-02,Savings,Miami,4012,James Jackson
+40625,993046,Deposit,2714.49,2023-11-12,Business,New York,8186,Tiffany Whitehead DVM
+63376,412380,Deposit,1233.16,2023-11-23,Checking,Houston,5560,Kara Jacobs
+46317,109916,Withdrawal,1294.73,2022-12-14,Savings,Miami,9661,David Young
+73692,788670,Withdrawal,2575.8,2022-12-10,Business,Miami,8847,Eric Wright
+39104,705380,Deposit,537.44,2023-05-24,Business,Chicago,8503,Todd Robinson
+33565,317346,Withdrawal,4615.06,2024-09-12,Business,Houston,3882,David Glass
+49730,896139,Deposit,4032.73,2023-03-26,Checking,New York,1010,Tyler Camacho
+44923,204461,Deposit,2697.22,2022-10-01,Checking,Los Angeles,8193,Rebecca Mason
+95273,500086,Deposit,1036.68,2024-06-15,Checking,Miami,5161,Thomas Byrd
+87177,271553,Withdrawal,4025.84,2023-03-11,Business,New York,5844,Bryan Wilkins
+34390,702512,Deposit,2167.13,2024-03-20,Business,Los Angeles,1021,Latoya Perez
+24578,841716,Withdrawal,4221.72,2023-12-23,Savings,Los Angeles,4791,Linda Wilson
+53869,902978,Deposit,2699.35,2023-03-16,Savings,Chicago,8331,Matthew Bauer
+90786,607737,Withdrawal,1297.91,2023-03-12,Checking,Los Angeles,6293,Christopher Carter
+15628,525123,Withdrawal,1923.17,2024-08-14,Checking,Miami,9535,Sonya Willis
+31159,612642,Withdrawal,2726.72,2024-04-20,Checking,New York,4914,Matthew Freeman
+91301,627006,Deposit,4539.21,2023-08-28,Checking,Los Angeles,3217,Edward Tucker
+87168,218550,Deposit,732.1,2024-08-24,Business,Chicago,9973,Daniel Edwards
+22259,924044,Withdrawal,4127.87,2022-09-26,Business,Los Angeles,3135,Marie Brown
+32977,387595,Deposit,2442.23,2023-02-24,Savings,Chicago,6926,Matthew Christian
+93932,151092,Withdrawal,268.48,2023-09-06,Checking,Miami,9205,Thomas Clark
+39316,691760,Withdrawal,2433.09,2022-12-16,Savings,Houston,2211,Stacey Brooks
+66960,328352,Deposit,2847.29,2023-05-11,Savings,Houston,4562,Todd Cortez
+37219,776653,Deposit,535.99,2023-01-06,Checking,New York,9365,Holly Hughes
+40586,318328,Deposit,943.89,2024-02-28,Checking,Los Angeles,9831,John Herring
+97426,802133,Deposit,3934.97,2023-10-22,Business,Miami,8615,Stephanie Harris
+45694,995866,Withdrawal,959.37,2022-09-30,Business,Miami,1507,Mr. Nicholas Anderson
+25641,124741,Deposit,4198.51,2023-09-05,Checking,Los Angeles,8605,Lindsey Bryant
+44424,554051,Withdrawal,4012.76,2024-04-02,Business,New York,3644,Arthur Moore
+40548,159326,Withdrawal,4968.27,2022-12-22,Checking,New York,6394,Erin Snow
+93351,362621,Withdrawal,2625.15,2024-08-08,Checking,Chicago,8849,Tiffany Glenn
+28279,743004,Deposit,3287.41,2024-07-14,Savings,Miami,3815,Gregory Guerrero
+91419,187515,Withdrawal,4185.51,2024-02-08,Savings,New York,6299,Stephanie Guerra
+15205,331540,Withdrawal,108.28,2024-05-12,Business,Chicago,1551,Megan Robinson
+41438,743950,Withdrawal,2315.37,2024-03-29,Checking,Miami,1759,Jessica Carroll
+84496,122484,Deposit,677.03,2024-09-15,Checking,Houston,3824,Hannah Schwartz
+76631,702861,Withdrawal,793.17,2023-09-06,Business,Chicago,3257,Alison Herring
+76525,740796,Withdrawal,4026.62,2023-01-26,Checking,Los Angeles,8098,Michael Branch
+57085,880351,Withdrawal,4521.63,2023-07-23,Savings,Los Angeles,4533,Sandra Simmons
+68183,791368,Deposit,495.02,2023-02-28,Savings,Los Angeles,7775,Marie English
+36520,307627,Deposit,3604.02,2023-11-24,Checking,New York,3643,Jessica Russell
+51033,282325,Deposit,4125.27,2022-12-12,Savings,Los Angeles,1117,Kevin Schneider
+36491,201684,Deposit,3697.79,2023-05-12,Checking,Houston,6785,John Perez
+94472,300713,Withdrawal,2694.34,2023-08-06,Savings,Chicago,1584,Anthony Austin
+24553,573178,Deposit,630.07,2023-06-29,Checking,Miami,7917,Angie Murphy
+24062,581603,Withdrawal,1643.7,2023-07-18,Business,Houston,7503,Joseph Wilson
+80705,284078,Deposit,2874.57,2023-12-20,Savings,Miami,7948,Eileen Davis
+19758,916177,Deposit,2864.14,2022-10-12,Savings,New York,2448,Tammie Payne
+41217,148653,Deposit,2565.26,2022-11-08,Savings,Chicago,6530,Sonya Mullins
+45051,622405,Deposit,3312.57,2022-09-29,Business,Houston,3713,Timothy Lane
+81430,884328,Withdrawal,3402.52,2023-02-08,Checking,Chicago,1245,Robert Higgins
+65306,153543,Deposit,21.45,2023-05-20,Checking,New York,1051,Ashley Beck
+85899,587234,Deposit,3196.19,2023-05-16,Business,Miami,3438,Melissa Mckinney
+48162,301610,Withdrawal,3824.99,2023-08-02,Checking,Los Angeles,8540,Kirsten Young
+13677,560835,Withdrawal,1153.45,2023-08-22,Checking,Chicago,9808,Jimmy Wilson
+65782,660311,Withdrawal,2663.74,2024-01-14,Savings,Los Angeles,4523,Nicole Martin
+17279,540881,Withdrawal,2662.39,2023-12-04,Savings,Chicago,6410,James Gonzalez
+28355,917956,Withdrawal,2014.53,2022-09-24,Business,Houston,9465,Francisco Ward
+78507,339352,Deposit,3315.08,2024-01-03,Savings,Houston,5130,Dennis Marshall
+34024,922591,Withdrawal,2389.69,2023-02-01,Savings,Miami,6022,Casey Smith
+80836,708719,Deposit,640.99,2023-07-28,Checking,Miami,5921,Mary Meyer
+77265,945698,Withdrawal,444.37,2023-07-13,Business,Miami,1629,Troy Hughes
+58164,284208,Deposit,3030.05,2023-08-22,Checking,Houston,4794,Gary Cohen
+17394,902533,Withdrawal,1766.07,2023-01-18,Savings,New York,1251,Barry Bautista
+37607,679133,Withdrawal,1653.38,2023-07-23,Checking,Miami,6821,Jeffrey Jones MD
+32919,138455,Withdrawal,1272.53,2024-04-25,Business,New York,8497,Nicole Deleon
+69510,248461,Deposit,942.15,2024-06-30,Business,Miami,8514,Jessica Morrison
+43454,573165,Withdrawal,3504.05,2022-09-17,Business,Chicago,3557,Jeremiah Ramos DDS
+39520,173641,Deposit,2146.84,2024-07-03,Checking,Miami,9992,Jessica Sexton
+88021,340209,Withdrawal,4848.88,2024-05-28,Checking,Miami,9435,Christopher Gray
+48886,917896,Withdrawal,1767.28,2022-12-23,Checking,Chicago,4544,Andrew Smith
+41158,118281,Withdrawal,2089.4,2024-04-06,Business,Miami,6576,Douglas Harris
+65031,213766,Deposit,282.25,2022-11-14,Business,New York,9774,Sarah Mann
+56461,191482,Deposit,2523.09,2023-10-03,Business,Houston,7198,Rhonda Reyes
+89663,301963,Deposit,555.04,2023-01-24,Checking,Chicago,2553,Laurie Christensen
+21533,538909,Deposit,1375.86,2024-02-24,Business,Miami,1829,Victoria Jacobs
+93608,843290,Withdrawal,1195.1,2023-10-12,Business,Houston,3088,Sydney Mason
+56237,306434,Withdrawal,2474.45,2022-12-22,Savings,Miami,8169,Christopher Mayer
+77458,149140,Withdrawal,4699.53,2023-06-03,Business,Houston,8601,Brandon Mccarthy
+67805,427160,Deposit,3271.96,2023-08-31,Business,New York,6358,Peggy Robinson
+60203,382645,Deposit,1787.31,2024-07-07,Checking,Miami,4794,Frank Zuniga
+81951,763842,Deposit,4989.0,2023-12-30,Checking,Los Angeles,6399,Jason Stevens
+78398,340298,Withdrawal,4684.74,2023-11-13,Checking,Houston,8369,Charles Phillips
+85068,720976,Deposit,3199.05,2024-07-18,Savings,New York,4193,Andrew Gonzalez
+40537,111895,Deposit,2583.01,2023-02-27,Checking,Chicago,4718,Jeremy Shaw
+58307,399197,Deposit,4482.47,2024-03-20,Savings,New York,1622,Brooke Walker
+25238,334053,Withdrawal,3473.15,2023-01-05,Checking,Houston,4761,James Clark
+17705,425806,Deposit,2956.05,2023-02-08,Business,Houston,3273,Carl Estes
+18125,837767,Withdrawal,3399.51,2023-12-06,Checking,Chicago,1990,Michelle Torres
+61503,306503,Deposit,2537.33,2023-01-06,Checking,Chicago,7898,Timothy Garcia
+78153,809560,Deposit,2813.47,2022-11-01,Business,New York,2950,John Meadows
+97572,811084,Deposit,3744.74,2023-09-04,Business,Chicago,7071,Jack Roberson
+40174,335389,Withdrawal,3507.06,2024-02-01,Savings,Houston,4577,Sonya Cox
+28036,665280,Withdrawal,338.7,2024-08-07,Savings,Miami,2831,Morgan Kline
+51002,110642,Withdrawal,1957.68,2022-10-02,Business,Los Angeles,2660,Robin Watson
+88729,983608,Deposit,3506.76,2023-10-09,Savings,Miami,1710,Jennifer Haley
+86128,415050,Deposit,2528.29,2022-11-01,Checking,Los Angeles,7030,Lisa Scott
+58006,518974,Withdrawal,2011.41,2023-01-30,Checking,Chicago,5417,Tara James
+32302,284484,Deposit,1788.16,2022-10-23,Savings,Houston,2028,Kyle Gilbert
+75830,581075,Withdrawal,657.23,2023-01-17,Checking,Miami,8968,Jodi Robertson
+52604,257985,Deposit,2559.3,2023-10-24,Checking,Miami,3234,William Griffin
+65964,333723,Deposit,4022.71,2024-07-14,Business,Chicago,7164,Holly Ward
+91056,556520,Withdrawal,1313.72,2023-03-29,Checking,Los Angeles,7023,Gina Stephenson
+55807,768350,Withdrawal,1703.77,2023-12-07,Business,Houston,1519,Eric Lang
+98284,105838,Withdrawal,1588.09,2024-04-24,Savings,Chicago,5005,Teresa Li
+46054,859326,Withdrawal,4770.92,2023-01-02,Savings,New York,4045,Robert Cantrell
+28156,345575,Withdrawal,2664.43,2023-04-13,Checking,Chicago,1772,Ariel Diaz
+94032,686218,Withdrawal,3300.76,2024-01-18,Checking,Los Angeles,2137,James Green
+97629,895360,Deposit,319.72,2024-04-26,Business,Los Angeles,9815,Matthew Hernandez
+58921,694407,Deposit,2513.17,2024-02-15,Business,New York,2306,Brandon Smith
+67883,558935,Deposit,2180.67,2024-04-19,Checking,Chicago,9288,Larry Ward
+37720,171887,Withdrawal,1953.34,2023-05-27,Business,New York,6507,Carrie Whitaker
+68553,203499,Deposit,1124.88,2023-05-25,Checking,Houston,9026,Barbara Myers
+24588,376161,Withdrawal,893.62,2023-02-12,Savings,New York,3515,Kayla Silva
+76605,485710,Withdrawal,12.93,2022-11-16,Checking,Chicago,7538,Denise Donovan
+68145,622325,Withdrawal,4654.59,2022-12-28,Business,Chicago,2419,Renee Garcia
+60048,190269,Withdrawal,1887.28,2023-09-24,Checking,Miami,7909,Isaac Mueller
+28549,668098,Withdrawal,821.28,2024-06-28,Checking,Chicago,6410,David Cain
+20051,476341,Withdrawal,190.46,2023-01-27,Savings,Chicago,6109,Patricia Hancock
+48424,495540,Deposit,4369.31,2024-08-07,Business,Houston,6219,Louis Moyer
+63635,387847,Withdrawal,1513.29,2024-03-03,Checking,Houston,4001,Sarah Garcia
+38454,902971,Withdrawal,2738.88,2022-09-22,Savings,Houston,7272,Dennis Moreno
+64732,171988,Deposit,228.96,2023-09-26,Checking,New York,8435,Peter Perez
+79602,404325,Deposit,849.67,2022-10-25,Savings,Miami,9613,Megan Arnold
+80684,243618,Deposit,3643.87,2024-03-14,Business,Chicago,2431,Christopher Martinez
+29049,259733,Withdrawal,2882.68,2024-05-13,Checking,Houston,8873,Michele Garcia
+96242,655815,Withdrawal,4646.96,2023-10-03,Checking,Houston,3551,Rachel Cummings
+45467,685804,Deposit,594.56,2024-06-14,Checking,Houston,5436,Kristin Jackson
+78660,742270,Deposit,3602.31,2023-05-03,Checking,Miami,8653,Denise Stevens
+50738,424316,Withdrawal,3437.09,2024-03-15,Checking,Miami,5318,Daryl Lee
+40806,828919,Withdrawal,4990.43,2022-11-18,Checking,Chicago,9840,Denise Norris
+77866,104924,Deposit,720.54,2023-12-01,Checking,New York,3346,Tiffany Stevens
+24775,380647,Withdrawal,4831.43,2024-04-20,Business,New York,4185,Christopher Frazier
+79182,783384,Deposit,4216.96,2023-12-15,Business,New York,8478,Meagan Dorsey
+44729,510181,Deposit,1256.96,2024-08-22,Savings,Miami,5709,Emily Smith
+73766,232814,Deposit,3958.68,2024-04-07,Checking,Miami,8206,Danielle Hampton
+22702,246608,Withdrawal,2289.05,2024-02-20,Checking,Miami,1449,Hannah Diaz
+87520,409054,Deposit,3102.19,2022-11-10,Business,Houston,3974,Bruce Hayden
+91612,986488,Deposit,4216.22,2024-01-22,Business,Los Angeles,2559,Rebekah Becker
+99940,974908,Withdrawal,516.09,2022-11-13,Business,Houston,2183,Samantha Kemp
+70605,183891,Withdrawal,1384.14,2023-03-23,Business,Houston,7321,Stephen Warner
+51830,592671,Withdrawal,3594.42,2022-11-10,Business,New York,4327,Tammie Murray
+40468,799614,Withdrawal,3017.59,2022-10-19,Savings,Miami,3423,Donna Hawkins
+37411,940236,Deposit,1859.53,2024-03-04,Savings,Chicago,1346,Rachel Colon
+25787,853369,Withdrawal,4700.04,2023-07-21,Business,Miami,3369,Joy Wright
+61449,326932,Deposit,4384.76,2024-03-29,Checking,Chicago,5526,Nicole Blankenship
+26111,712671,Withdrawal,1702.17,2024-01-28,Savings,Los Angeles,4435,Amy Bush
+84483,429522,Deposit,1941.64,2022-12-15,Savings,Chicago,8891,Matthew Lopez
+56791,425367,Deposit,1384.45,2023-04-22,Business,New York,1499,Cathy Mcdonald
+92797,816085,Withdrawal,4583.9,2023-03-17,Savings,Miami,1905,Kimberly Valdez
+14303,751068,Deposit,4810.67,2023-07-03,Business,New York,3502,Craig Werner
+56560,690853,Withdrawal,2430.32,2023-04-17,Business,Chicago,1890,Linda Phillips
+82165,363871,Withdrawal,3785.05,2024-08-11,Checking,Houston,3752,Lori Garrett
+76362,764751,Deposit,4148.59,2023-05-22,Business,Houston,8680,Bradley Arellano
+75542,980283,Deposit,2520.18,2023-09-23,Checking,Miami,6722,Andrew Shelton
+23195,540072,Deposit,287.44,2023-05-31,Business,Miami,6665,Michelle Jones
+60594,297675,Deposit,442.13,2023-01-27,Checking,Los Angeles,7482,Curtis Bautista
+95075,763104,Deposit,3788.09,2023-02-28,Savings,Miami,7390,Hailey Higgins
+60080,199029,Deposit,4601.72,2022-10-09,Savings,Houston,6053,Susan Mcdonald
+64540,319355,Deposit,891.06,2022-10-15,Checking,Chicago,1752,Renee House
+36589,523082,Deposit,2266.75,2023-11-01,Savings,Los Angeles,5844,Mark Wood
+85053,344030,Deposit,480.64,2022-10-31,Business,Chicago,7511,Mr. Christopher Parker III
+78775,424710,Deposit,628.5,2023-03-18,Savings,Los Angeles,4648,Tamara Barrett
+94581,707686,Withdrawal,4559.85,2024-07-31,Checking,Houston,5822,Miguel Bush
+80239,234103,Withdrawal,3931.44,2024-08-01,Savings,Chicago,7276,Deborah Valencia
+97458,642006,Deposit,1574.67,2023-11-29,Checking,Los Angeles,7519,Stanley Dunlap
+97149,196135,Deposit,1419.64,2022-11-12,Savings,Miami,8597,Lydia Walker
+92736,788196,Withdrawal,1856.52,2023-07-16,Checking,Chicago,4574,Robert Morgan
+16934,679475,Withdrawal,3516.03,2023-04-18,Savings,Miami,8116,Henry Gibson
+62974,905386,Deposit,4535.95,2024-06-22,Business,Houston,9277,Jamie Savage
+40412,515761,Withdrawal,208.69,2023-08-30,Savings,Los Angeles,8446,Alexa Reeves
+72656,842516,Deposit,1101.06,2023-07-07,Checking,Miami,8783,Mary Ingram
+54552,543208,Withdrawal,2233.53,2024-06-12,Business,Los Angeles,7694,Sarah Soto
+17827,406641,Withdrawal,3800.56,2022-10-20,Savings,Miami,3281,Carolyn Payne
+74898,390817,Deposit,1723.65,2022-10-12,Savings,Los Angeles,9821,Barry Wilson
+51229,357201,Deposit,2180.11,2023-11-12,Savings,Los Angeles,7304,Taylor Yang
+79814,493755,Withdrawal,3983.7,2024-08-02,Savings,Chicago,2553,Robert Gutierrez
+96729,844033,Withdrawal,276.47,2023-06-01,Business,Houston,3203,Michael Klein
+41303,144028,Withdrawal,4554.16,2022-10-20,Business,Chicago,1357,Shannon Walton
+57522,523543,Deposit,4433.87,2023-11-26,Savings,Chicago,6365,Christina Kramer
+12448,800434,Withdrawal,124.13,2023-04-08,Business,Los Angeles,8341,Angela Williams
+23730,174793,Withdrawal,2422.83,2024-01-13,Savings,Chicago,1662,Andrew Rangel
+73693,115090,Withdrawal,4089.91,2024-08-27,Business,Miami,7212,Andrea Gentry
+79343,304538,Withdrawal,2845.35,2024-03-20,Savings,Chicago,5793,Kathryn Larson
+73797,935243,Withdrawal,2657.07,2023-03-29,Checking,Houston,7131,Miranda Dawson
+28190,701006,Deposit,4455.42,2023-12-20,Savings,Los Angeles,7204,Andrew Banks
+35190,996080,Deposit,661.65,2023-02-06,Business,New York,7045,Matthew Mcguire
+45110,732310,Deposit,2251.62,2023-04-06,Savings,New York,7689,Richard Scott
+36063,523793,Withdrawal,3079.52,2024-02-26,Business,Chicago,7676,Mrs. Lisa Li MD
+31231,722665,Withdrawal,1132.19,2024-07-13,Business,Los Angeles,8305,David Jones
+20716,237310,Deposit,777.78,2023-11-04,Business,Houston,2818,Andrew Cummings
+62287,243830,Withdrawal,4644.0,2023-08-08,Business,New York,7685,James Marquez
+70734,715609,Withdrawal,4636.2,2024-02-07,Business,New York,5312,Christopher Mccormick
+22569,515864,Withdrawal,4404.07,2023-04-20,Savings,Chicago,6587,Ryan Fuller
+38156,754569,Withdrawal,288.49,2022-09-24,Savings,Houston,5646,Lynn Ortiz
+15828,897333,Withdrawal,256.87,2023-11-29,Checking,Houston,2734,Tyler King
+48651,120183,Withdrawal,598.29,2022-11-03,Business,Miami,2165,Mark Jones
+57141,252420,Withdrawal,2882.57,2023-01-30,Checking,New York,7162,Paul Lewis
+65664,768269,Deposit,1744.31,2024-06-30,Business,New York,3432,Jerry Bell
+89397,800556,Deposit,3431.06,2024-07-03,Checking,Houston,7961,Samuel Barron
+76262,366446,Withdrawal,2911.72,2023-05-03,Business,Chicago,5639,John Salinas
+83586,584843,Deposit,2412.68,2022-11-20,Business,New York,4648,Nicholas Frederick
+79892,428758,Deposit,3541.45,2023-08-01,Business,Houston,1857,William Washington
+81160,745777,Deposit,2327.69,2023-12-22,Business,Chicago,5264,Christopher Acevedo
+29422,410303,Deposit,4380.6,2022-10-23,Checking,Chicago,5164,Donald Moore
+53381,224072,Withdrawal,4456.1,2023-03-16,Checking,New York,8448,Jacob Travis
+93030,615767,Deposit,3062.54,2024-04-12,Savings,Chicago,7765,Kevin Branch
